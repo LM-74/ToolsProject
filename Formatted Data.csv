@@ -1,0 +1,1034 @@
+,Role,Organization,Locations,Tags,Expected_Salary (*1000$),Date_Posted
+0,Web Developer,Contra,"['Worldwide', 'Contractor']","['Other', 'Data', 'Consulting']",225.0,2025-04-28
+1,Senior React Full stack Developer,Lemon.io,"['Europe', 'Latin America', 'Australia', 'Canada', 'Indonesia', 'New Zealand', 'Papua New Guinea', 'Philippines', 'United Kingdom', 'United States']","['Engineer', 'Senior', 'JavaScript', 'FullStack', 'React', 'FullTime', 'Ruby', 'Python', 'Node', 'English', 'Postgres', 'Typescript', 'AWS', 'Startup', 'Next', 'Remote', 'iOS']",175.0,2025-04-28
+2,Administrative Executive,Prime Design & Build,"['Latin America', 'Worldwide']","['SysAdmin', 'Design', 'Executive', 'Admin', 'VirtualAssistant', 'Other', 'NonTech']",35.0,2025-04-25
+3,Full Stack Engineer,Stealth,"['Worldwide', 'Contractor']","['Pyton', 'Django', 'JavaScript', 'React', 'FullStack', 'Engineer', 'Python']",150.0,2025-04-14
+4,Internet of Things Technical Lead,Sanctuary Computer,['Worldwide'],"['ReactNative', 'Flutter', 'Android', 'Kotlin', 'JavaScript', 'React', 'CSS', 'GraphQL', 'AWS', 'GCP', 'Azure', 'Ruby', 'Postgres']",190.0,2025-04-19
+5,Senior Software Engineer,Emergent Software,['Probably worldwide'],"['Software', 'Design', 'React', 'FrontEnd', 'Training', 'Consulting', 'Technical', 'UX', 'Code', 'Web', 'Scrum', 'DevOps', 'JavaScript', 'Cloud', 'Microsoft', 'Mobile', 'Management', 'Lead', 'Senior', 'Healthcare', 'Engineer', 'Engineering', 'Backend']",118.0,2025-04-18
+6,Javascript Fullstack Engineer Senior,Lumenalta,"['Worldwide', 'Europe']","['Engineer', 'JavaScript']",95.0,2025-04-15
+7,Full stack Ruby on Rails engineer Earn equity,Zipchat,['Worldwide'],"['FullStack', 'Ruby', 'Shopify']",100.0,2025-04-14
+8,Full Stack Developer,Incyte Studios,['United States'],"['Engineer', 'FullStack']",215.0,2025-04-11
+9,Senior Mobile Developer,Headway,['United States'],"['Senior', 'ReactNative', 'Mobile', 'Mobiledev', 'iOS', 'Android']",165.0,2025-04-09
+10,Full Stack Web Developer,JDCLD Trading,"['Europe', 'Contractor']","['Backend', 'FullStack', 'API', 'FullTime']",55.0,2025-04-08
+11,Senior PHP Laravel Developer Full Stack,Interaction Design Foundation,['Worldwide'],"['FullStack', 'PHP', 'Laravel', 'Tailwind', 'Design']",385.0,2025-04-29
+12,spoke person,labs ai,"['Worldwide', 'Part time']","['Marketing', 'Sales', 'NonTech', 'CustomerSupport', 'Other']",40.0,2025-04-29
+13,Senior Data Engineer,Soda Data,['Europe'],"['Data', 'DataEngineer']",150.0,2025-04-29
+14,Sr Software Developer PHP MySQL,LendingWise,['Worldwide'],"['FullStack', 'PHP', 'SQL']",60.0,2025-04-29
+15,React Native Developer,Private.Ki,['Worldwide'],"['ReactNative', 'Remote', 'FullTime', 'Senior']",80.0,2025-04-29
+16,Intermediate Angular Developer,Revelator,"['Europe', 'South Africa']","['FrontEnd', 'JavaScript', 'Angular']",95.0,2025-04-29
+17,Senior Software Engineer,Sanctuary Computer,['Worldwide'],"['RubyonRails', 'Elixir', 'PythonDjango', 'NodeExpress', 'ReactNative', 'Flutter', 'Android', 'Aosp', 'Kotlin', 'JavaScript', 'React', 'CSS', 'Rest', 'GraphQL', 'AWS', 'GCP', 'Azure']",190.0,2025-04-29
+18,Senior Software Engineer Backend,Coinbase Developer Platform,['United States'],"['Software', 'Crypto', 'Ethereum', 'System', 'Security', 'Developer', 'Growth', 'Code', 'Financial', 'Rails', 'Senior', 'Reliability', 'Engineer', 'Backend']",115.5,2025-04-29
+19,Senior Software Engineer Backend,Coinbase Developer Platform,['United States'],"['Software', 'Crypto', 'Ethereum', 'System', 'Security', 'Developer', 'Growth', 'Code', 'Financial', 'Rails', 'Senior', 'Reliability', 'Engineer', 'Backend']",115.5,2025-04-29
+20,Developer,Stoneridge Software,"['Minneapolis', 'MN']","['Developer', 'SaaS', 'Technical', 'Software', 'Test', 'Travel', 'Finance', 'Microsoft', 'Operations', 'Sales']",100.0,2025-04-29
+21,Full Stack Engineer,ResumeDive,['Worldwide'],"['JavaScript', 'Tailwind', 'React', 'Figma', 'Node']",155.0,2025-04-29
+22,Security & Risk Engineer US based,Buoy Software,['Worldwide'],"['Security', 'Support', 'Software', 'Testing', 'Code', 'Manager', 'Financial', 'Mobile', 'Management', 'Operational', 'Health', 'Engineer', 'Engineering']",111.5,2025-04-29
+23,Full Stack React Engineer,Dock,['India'],"['JavaScript', 'React', 'GraphQL']",105.0,2025-04-29
+24,Front End lead developer,emmacare.com,['Europe'],[],85.0,2025-04-29
+25,Backend Engineer,Flourish Software,['Probably worldwide'],"['Golang', 'Software', 'Engineer', 'Backend']",115.5,2025-04-29
+26,Wordpress Developer,BBE Marketing,['Worldwide'],"['PHP', 'Wordpress', 'Elasticsearch']",60.0,2025-04-29
+27,Software Engineer Backend,BrowserStack Software Private Limited,['Mumbai'],"['Software', 'Design', 'Technical', 'Support', 'Testing', 'Code', 'QualityAssurance', 'Cloud', 'Mobile', 'Engineer', 'Engineering', 'Linux', 'Backend']",110.0,2025-04-29
+28,Technical Support Engineer Developer,LimeSurvey,"['Europe', 'United Kingdom']","['PHP', 'CustomerSupport', 'Edu', 'Tech', 'Engineer', 'Remote']",75.0,2025-04-29
+29,Senior Back End Wizard,joi.studio,"['Worldwide', 'Contractor']","['Engineer', 'JavaScript', 'Backend', 'Cloud', 'FullStack', 'React', 'FullTime', 'API', 'DevOps', 'Python', 'Node', 'Amazon', 'Serverless', 'SQL', 'Mongo', 'Typescript']",60.0,2025-04-29
+30,Principal Software Engineer,Recast Software,['United States'],"['Software', 'Design', 'SaaS', 'System', 'Technical', 'Support', 'Test', 'Code', 'Scrum', 'JavaScript', 'Cloud', 'Microsoft', 'Senior', 'Engineer', 'Engineering']",110.0,2025-04-29
+31,Product Marketing Manager,Recast Software,['United States'],"['Manager', 'Security', 'Technical', 'Support', 'Software', 'Growth', 'Voice', 'Cloud', 'Content', 'Senior', 'Marketing', 'Sales']",100.0,2025-04-29
+32,Full stack Engineer PHP Symfony React MongoDB,i6,['Europe'],"['JavaScript', 'React', 'PHP', 'Mongo', 'Symfony']",110.0,2025-04-29
+33,Senior PHP Laravel Developer,IxDF - Interaction Design Foundation,['Worldwide'],"['Backend', 'FrontEnd', 'PHP', 'SQL', 'AWS']",385.0,2025-04-29
+34,Senior Backend Engineer,Center,['Worldwide'],"['Engineer', 'JavaScript', 'Backend', 'Typescript']",280.0,2025-04-29
+35,Senior Developer Grow My Clinic,Jane Software,['Canada'],"['Developer', 'Amazon', 'Swift', 'FrontEnd', 'Security', 'Full-Stack', 'Technical', 'Support', 'Software', 'Growth', 'Web', 'Voice', 'Manager', 'DevOps', 'Ruby', 'Management', 'Senior', 'Health', 'Healthcare', 'Backend']",112.5,2025-04-29
+36,Junior Software Test Specialist,Igloo Software,['Canada'],"['Software', 'Test', 'Training', 'Support', 'Testing', 'QualityAssurance', 'Investment', 'Management', 'Content', 'Junior', 'Health', 'Recruitment']",80.0,2025-04-29
+37,Staff Software Engineer Fullstack,Coinbase Developer Platform,['United States'],"['Software', 'Design', 'Web3', 'Solidity', 'Crypto', 'Ethereum', 'React', 'FrontEnd', 'Security', 'Technical', 'Support', 'Developer', 'Growth', 'UI', 'Web', 'Financial', 'Ruby', 'API', 'Strategy', 'Management', 'Engineer', 'Engineering', 'Backend', 'Woocommerce', 'Fullstack']",120.0,2025-04-29
+38,Senior Software Engineer,Elluminates Software,['Probably worldwide'],"['Golang', 'Software', 'Senior', 'Engineer']",122.5,2025-04-29
+39,Senior Backend Developer,3MotionAI,"['Canada', 'United States', 'Worldwide']","['Senior', 'ASP.NET', 'Golang']",140.0,2025-04-29
+40,Senior Staff Software Engineer Backend Python,Close,['United States'],"['Engineer', 'Senior', 'Backend', 'SaaS', 'Python', 'Travel', 'Startup', 'Product', 'Remote', 'Bootstrap']",240.0,2025-04-29
+41,Intermediate Frontend Platform Engineer,Jane Software,['Canada'],"['FrontEnd', 'Design', 'Security', 'Technical', 'Support', 'Developer', 'Growth', 'Code', 'Voice', 'Manager', 'Typescript', 'Management', 'Senior', 'Reliability', 'Health', 'Healthcare', 'Engineer']",120.0,2025-04-29
+42,Junior Software Test Specialist,Igloo Software,['Worldwide'],"['Software', 'Test', 'Training', 'Support', 'Testing', 'QualityAssurance', 'Investment', 'Management', 'Content', 'Junior', 'Health', 'Recruitment']",85.0,2025-04-29
+43,DevOps Engineer,3MotionAI,"['Canada', 'United States', 'Worldwide', 'Part time']","['Senior', 'DevOps', 'Devsecops']",140.0,2025-04-29
+44,Senior Frontend Developer,3MotionAI,"['Canada', 'United States', 'Worldwide']","['Senior', 'JavaScript', 'Angular', 'React']",140.0,2025-04-29
+45,Intermediate Software Developer Clinical Group,Jane Software,['Canada'],"['Developer', 'Software', 'Design', 'Front-End', 'Back-End', 'Full-Stack', 'Technical', 'Support', 'Growth', 'Manager', 'Typescript', 'Ruby', 'Rails', 'API', 'Management', 'Operational', 'Health', 'Healthcare', 'Engineering']",127.5,2025-04-29
+46,Senior Software Developer Clinical Group,Jane Software,['Canada'],"['Developer', 'Software', 'Design', 'Front-End', 'Back-End', 'Full-Stack', 'Technical', 'Support', 'Growth', 'Voice', 'Manager', 'Typescript', 'Ruby', 'Rails', 'API', 'Management', 'Senior', 'Operational', 'Health', 'Healthcare', 'Engineering']",121.5,2025-04-29
+47,Senior iOS Developer,3MotionAI,"['Canada', 'United States', 'Worldwide']","['Senior', 'Swift']",140.0,2025-04-29
+48,People & Culture Generalist,Coconut Software,['Probably worldwide'],"['HR', 'System', 'Training', 'Support', 'Software', 'Manager', 'Administrator', 'Management', 'Content', 'Marketing', 'Health', 'Recruitment', 'Branding']",127.5,2025-04-29
+49,Software Team Lead,Revelator,"['Europe', 'United Kingdom', 'South Africa']","['TechLead', 'NetCore']",150.0,2025-04-29
+50,Account Management Executive,Igloo Software,"['North America', 'Worldwide']","['Design', 'SaaS', 'System', 'Training', 'Technical', 'Support', 'Director', 'Travel', 'Investment', 'Leader', 'Strategy', 'Management', 'Lead', 'Content', 'Sales', 'Health', 'Executive']",125.0,2025-04-29
+51,Developer,Transax,['Worldwide'],"['PHP', 'Laravel', 'AWS', 'Vue']",100.0,2024-04-29
+52,Rails Frontend & Backend Wizard,VIVA,['Worldwide'],"['JavaScript', 'Backend', 'FrontEnd', 'Ruby', 'Tailwind']",110.0,2024-04-29
+53,Software Development Engineer Test,BrowserStack Software Private Limited,['Mumbai'],"['Software', 'Test', 'Technical', 'Testing', 'QualityAssurance', 'NodeJS', 'Cloud', 'Ruby', 'Mobile', 'Engineer', 'Engineering']",109.0,2024-04-29
+54,Senior Data Engineer,Alqen,['Worldwide'],"['Backend', 'Engineer', 'DataOps', 'Databases', 'DataScience', 'DataProcessing', 'DataStructures', 'DatabaseAdmin']",25.0,2024-04-29
+55,Founding AI Engineer,Dimension,"['Europe', 'North America']","['Senior', 'MachineLearning', 'DeepLearning', 'AI', 'ArtificialIntelligence', 'NeuralNetworks', 'ArtificialIntelligence']",190.0,2024-04-29
+56,Senior Front End Angular Developer,Revelator,"['Europe', 'South Africa']","['JavaScript', 'Angular', 'FrontEnd']",95.0,2024-04-29
+57,Developer,VIVA,['Worldwide'],"['JavaScript', 'Backend', 'FrontEnd', 'Ruby', 'Tailwind']",110.0,2024-04-29
+58,Senior Developer,CoLab Software,['Canada'],['Senior'],160.0,2024-04-29
+59,Senior Product Engineer,Plain,['Europe'],"['Backend', 'Engineer']",160.0,2024-04-29
+60,Senior Software Developer Payroll & Compensation,Jane Software,['Canada'],"['Developer', 'Software', 'Payroll', 'Design', 'Python', 'Full-Stack', 'Technical', 'Support', 'Growth', 'Voice', 'Manager', 'Financial', 'Ruby', 'Management', 'Lead', 'Senior', 'Reliability', 'Health', 'Healthcare', 'Engineering']",125.0,2024-04-29
+61,Senior System Engineer,Razorpay Software Private Limited,['Probably worldwide'],"['System', 'macOS', 'Training', 'Technical', 'Support', 'Cloud', 'Microsoft', 'Mobile', 'Management', 'Senior', 'Operational', 'Engineer']",115.0,2024-04-29
+62,Senior Customer Success Manager,Coconut Software,['Probably worldwide'],"['Manager', 'SaaS', 'Growth', 'Financial', 'Video', 'Senior', 'Sales', 'Go']",116.5,2024-04-29
+63,National Account Executive,Coconut Software,['Probably worldwide'],"['SaaS', 'Salesforce', 'Support', 'Software', 'Financial', 'Lead', 'Senior', 'Marketing', 'Sales', 'Executive']",117.5,2024-04-29
+64,Senior Full Stack Developer,Rebilly,"['Spain', 'United Kingdom', 'Poland', 'Brazil', 'Australia']","['Engineer', 'Senior', 'FullStack']",125.0,2024-04-29
+65,Senior Frontend Developer,Center,"['Worldwide', 'Contractor']","['FrontEnd', 'Tailwind']",175.0,2024-04-29
+66,UX Engineer,Spectora,['United States'],"['FrontEnd', 'Engineer', 'SaaS']",205.0,2024-04-29
+67,Senior Backend Software Engineer,Center,"['Worldwide', 'Contractor']","['Backend', 'JavaScript', 'Typescript', 'Kubernetes']",205.0,2024-04-29
+68,Senior Software Engineer,PhotoCircle,"['Europe', 'Latin America', 'North America']","['Engineer', 'Backend', 'Python']",135.0,2024-04-29
+69,Backend Node.js Developer,Magic Square,"['Europe', 'Middle East']","['Backend', 'JavaScript', 'Node', 'Engineer', 'API', 'FullTime', 'Crypto', 'Remote']",90.0,2024-04-29
+70,Design and Research Translation Intern,Code for Science & Society,['Probably worldwide'],"['Design', 'Embedded', 'Code', 'Web', 'Educational']",115.0,2024-04-29
+71,Backend Engineer,Toggl Hire,['Europe'],"['Backend', 'Remote']",105.0,2024-04-29
+72,Senior Microsoft PowerBI Developer,Proxify,['Worldwide'],"['Senior', 'Data']",80.0,2024-04-29
+73,Senior Wordpress Developer,Proxify,['Worldwide'],"['Senior', 'Wordpress']",75.0,2024-04-29
+74,Senior Flutter Developer,Proxify,['Worldwide'],"['Senior', 'Flutter']",75.0,2024-04-29
+75,Partner Support Specialist,Girls Who Code,['Worldwide'],"['System', 'Teacher', 'Teaching', 'Students', 'Training', 'Support', 'Code', 'QualityAssurance', 'Management', 'Content', 'Marketing']",110.0,2024-04-29
+76,Director of Business Intelligence,Jane Software,['Canada'],"['Director', 'SaaS', 'Security', 'Technical', 'Support', 'Growth', 'Voice', 'Manager', 'Strategy', 'Management', 'Lead', 'Operational', 'Analytics', 'Health', 'Healthcare']",114.0,2024-04-29
+77,Go Engineer,Flourish Software,['Probably worldwide'],"['Golang', 'Software', 'Go', 'Engineer']",115.0,2023-04-30
+78,Senior Software Engineer,Coder,['Probably worldwide'],"['Golang', 'Software', 'Coder', 'Code', 'Senior', 'Engineer']",130.0,2023-04-30
+79,Entry Level Manager,American Income Life: AO,['United States'],"['Consulting', 'Growth', 'Leader', 'Sales', 'Go', 'Health', 'Analyst', 'Security', 'Training', 'Software', 'Travel', 'QualityAssurance', 'Management', 'System', 'Test', 'Senior', 'Healthcare', 'Junior', 'Operational', 'Excel', 'Executive', 'Strategy', 'Lead', 'Operations', 'Analytics', 'Manager', 'Video', 'Content', 'Marketing', 'Director', 'HR', 'Recruiting', 'SaaS', 'Accounting', 'Financial', 'Finance', 'Cloud', 'Gaming']",118.0,2022-04-30
+80,Strategic Finance Intern Summer 2023,Lucid Software,['United States'],"['Consulting', 'Growth', 'Leader', 'Sales', 'Go', 'Health', 'Analyst', 'Security', 'Training', 'Software', 'Travel', 'QualityAssurance', 'Management', 'System', 'Test', 'Senior', 'Healthcare', 'Junior', 'Operational', 'Excel', 'Executive', 'Strategy', 'Lead', 'Operations', 'Analytics', 'Manager', 'Video', 'Content', 'Marketing', 'Director', 'HR', 'Recruiting', 'SaaS', 'Accounting', 'Financial', 'Finance', 'Cloud']",120.0,2022-04-30
+81,Senior Project Coordinator Telecommute,Optum,['United States'],"['Consulting', 'Growth', 'Leader', 'Sales', 'Go', 'Health', 'Analyst', 'Security', 'Training', 'Software', 'Travel', 'QualityAssurance', 'Management', 'System', 'Test', 'Senior', 'Healthcare', 'Junior', 'Operational', 'Excel', 'Executive', 'Strategy', 'Lead', 'Operations', 'Analytics', 'Manager', 'Video', 'Content', 'Marketing', 'Director', 'HR', 'Recruiting', 'SaaS', 'Accounting', 'Financial', 'Finance', 'Cloud', 'Gaming', 'Full-Time', 'Microsoft', 'Edu']",118.0,2022-04-30
+82,Analyst Regulatory Analytics,DraftKings Inc.,['United States'],"['Consulting', 'Growth', 'Leader', 'Sales', 'Go', 'Health', 'Analyst', 'Security', 'Training', 'Software', 'Travel', 'QualityAssurance', 'Management', 'System', 'Test', 'Senior', 'Healthcare', 'Junior', 'Operational', 'Excel', 'Executive', 'Strategy', 'Lead', 'Operations', 'Analytics', 'Manager', 'Video', 'Content', 'Marketing', 'Director', 'HR', 'Recruiting', 'SaaS', 'Accounting', 'Financial', 'Finance', 'Cloud', 'Gaming']",118.0,2022-04-30
+83,2023 Summer Intern Corporate Giving,General Motors,['United States'],"['Consulting', 'Growth', 'Leader', 'Sales', 'Go', 'Health', 'Analyst', 'Security', 'Training', 'Software', 'Travel', 'QualityAssurance', 'Management', 'System', 'Test', 'Senior', 'Healthcare', 'Junior', 'Operational', 'Excel', 'Executive', 'Strategy', 'Lead', 'Operations', 'Analytics', 'Manager', 'Video', 'Content', 'Marketing', 'Director', 'HR', 'Recruiting', 'SaaS', 'Accounting', 'Financial', 'Finance', 'Cloud', 'Gaming', 'Full-Time']",118.0,2022-04-30
+84,Praktikant in Werkstudent in Clinical Research,Kaia Health Software GmbH,['Germany'],['Medical'],125.0,2022-04-30
+85,DevOps Engineer,Coconut Software,[],"['Security', 'Software', 'Code', 'DevOps', 'Banking', 'Cloud', 'Perl', 'Management', 'Operations', 'Reliability', 'Engineer', 'Engineering', 'Linux']",130.0,2022-04-30
+86,HTML CSS Designer Developer,__OperateBeyond__TrailerCentral,['Worldwide'],"['CSS', 'HTML', 'Git', 'Design', 'FrontEnd', 'WebDeveloper', 'SaaS']",40.0,2022-04-30
+87,Web developer,EyeSeeTea,['Worldwide'],"['FrontEnd', 'JavaScript', 'React', 'NodeNop']",50.0,2022-04-30
+88,Senior Frontend Engineer,Kubecost,['Worldwide'],"['React', 'FrontEnd', 'DevOps', 'Cloud', 'Senior', 'Reliability', 'Go', 'Engineer', 'Engineering']",250.0,2022-04-30
+89,Senior Software Engineer Sec Ops,Slack,['United States'],"['Senior', 'Golang', 'Engineer', 'Security']",123.48917525773196,2022-04-30
+90,Senior game developer,Piepacker,['Europe'],"['Gaming', 'Video', 'Cloud', 'Senior']",80.0,2022-04-30
+91,Experienced Golang Developer,Peercoin Foundation,['Probably worldwide'],"['Golang', 'Cryptocurrency', 'Go']",125.0,2022-04-30
+92,React.JS Software Developer,UpStack Technologies,"['Europe', 'Latin America', 'United States', 'Canada', 'Worldwide']","['JavaScript', 'React', 'React', 'Engineer']",70.0,2022-04-30
+93,Platform Software Engineer,Lytics,['Probably worldwide'],"['Golang', 'Engineer', 'Cloud', 'API']",125.0,2022-04-30
+94,Backend Software Engineer,PracticeGenius,['United States'],"['PHP', 'Laravel', 'API', 'Engineer', 'Backend', 'FrontEnd', 'JavaScript', 'Amazon', 'Cloud', 'MySQL', 'Excel', 'System', 'Health', 'Engineering', 'Apache']",125.0,2022-04-30
+95,Senior Software Engineer Opportunity,MaxMind,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+96,Senior Software Developer Go Language,Unify Dots,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2022-04-30
+97,Go Developer,Vonage,['Probably worldwide'],"['Golang', 'Go', 'Engineering']",125.0,2022-04-30
+98,Senior golang backend developer,eGroup,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Fintech']",125.0,2022-04-30
+99,Senior Software Engineer Core Indexing,Figment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2022-04-30
+100,Senior Golang Developer,TempMee,['Worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",85.0,2022-04-30
+101,Software Engineer,Post Acute Analytics,['United States'],"['JavaScript', 'React', 'Node', 'Engineer', 'GraphQL', 'Docker', 'QualityAssurance', 'DevOps', 'InfoSec', 'Stats']",195.0,2022-04-30
+102,Backend Developer,Xsolla,['Probably worldwide'],"['Golang', 'Backend']",122.5,2022-04-30
+103,QA Automation Engineer Marketing Agency,Truelogic Software,['Brazil'],"['Design', 'Front-End', 'Back-End', 'Software', 'Testing', 'Test', 'Web', 'QualityAssurance', 'Java', 'API', 'Management', 'Content', 'Marketing', 'Engineer', 'Engineering']",127.0,2022-04-30
+104,Go Software Engineer,mx51,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2022-04-30
+105,Staff Software Engineer Platform,Lob,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2022-04-30
+106,React Native developer,Rize,['Worldwide'],"['JavaScript', 'React', 'ReactNative', 'Mobile', 'Lead']",55.0,2022-04-30
+107,Senior Software Engineer,Iterative,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+108,Senior Software Engineer,Odin,['United Kingdom'],"['JavaScript', 'React', 'Finance', 'Senior', 'Golang', 'Engineer', 'ReactNative', 'DevOps', 'Security', 'Engineering']",170.0,2022-04-30
+109,Software Engineer,Fluxx,['United States'],"['JavaScript', 'React', 'DevOps', 'Elasticsearch', 'Java', 'Ruby', 'jQuery', 'Engineer', 'FullStack', 'Redis', 'Cloud', 'Senior', 'Engineering', 'Backend', 'Full-Stack', 'Full-Time']",245.0,2022-04-30
+110,Principal Software Engineer Data Scientist,Cardlytics,['Probably worldwide'],"['DataScience', 'Golang', 'Engineer']",122.5,2022-04-30
+111,Senior Software Engineer,Udo,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+112,Senior Software Engineer,DomainTools,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2022-04-30
+113,Senior Software Developer Go Language,Unify Dots,['Probably worldwide'],"['Senior', 'Golang', 'Mobile', 'Go']",125.0,2022-04-30
+114,Principal Go Software Engineer,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Go', 'Recruiter']",120.0,2022-04-30
+115,Senior Software Engineer Cloud,O.C. Tanner,['Probably worldwide'],"['Cloud', 'Senior', 'Golang', 'Engineer', 'Leader', 'HR']",120.0,2022-04-30
+116,Senior Software Engineer,Security Onion Solutions,['Probably worldwide'],"['InfoSec', 'Senior', 'Golang', 'Engineer', 'Security']",122.5,2022-04-30
+117,Software Engineer Launchpad,Protocol Labs,['Worldwide'],"['Crypto', 'Engineer', 'Web3', 'Blockchain', 'Security', 'Senior', 'Reliability', 'Go', 'Engineering', 'Full-Time']",220.0,2022-04-30
+118,Node JS Developer,Coradine Aviation Systems,['United States'],"['JavaScript', 'Node', 'JavaScript', 'Serverless', 'NoSQL', 'Health', 'Engineer', 'Linux', 'Backend']",180.0,2022-04-30
+119,Golang Blockchain Developer,Decentral,['Probably worldwide'],"['Golang', 'Backend']",122.5,2022-04-30
+120,Senior Golang Microservices developer for modern cloud platform,Goget AB,['Probably worldwide'],"['Cloud', 'Senior', 'Golang']",125.0,2022-04-30
+121,Go React Native Docker Senior Developer,SipScience,['United States'],"['JavaScript', 'React', 'Senior', 'Golang', 'ReactNative', 'Docker', 'Mobile', 'Marketing', 'Android', 'Analytics', 'Go', 'Engineer']",15.0,2022-04-30
+122,Backend Developer,Synthro,['Probably worldwide'],"['Golang', 'Backend', 'FrontEnd', 'Lead', 'Go', 'Engineer']",120.0,2022-04-30
+123,Principal Software Engineer Applied Science Data Science,Cardlytics,['Probably worldwide'],"['DataScience', 'Golang', 'Engineer']",122.5,2022-04-30
+124,Senior Software Engineer,NTWRK,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+125,Principal Software Engineer Ads Marketplace,Cardlytics,['Probably worldwide'],"['Ads', 'Golang', 'Engineer']",120.0,2022-04-30
+126,Senior GoLang Developer,Tell ya later,['Probably worldwide'],"['Senior', 'Golang', 'Git']",125.0,2022-04-30
+127,Senior Go Backend Developer,refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2022-04-30
+128,Lead Backend Developer Go,refurbed,['Probably worldwide'],"['Golang', 'Backend', 'Executive', 'Lead', 'Go']",120.0,2022-04-30
+129,Senior Ruby on Rails Developer,Sedition Art,['Worldwide'],"['Ruby', 'Senior', 'Backend', 'QualityAssurance', 'React', 'Crypto', 'NFT', 'Rails', 'API', 'System']",150.0,2022-04-30
+130,Senior Backend Developer,The Giving Block,['Worldwide'],"['JavaScript', 'Node', 'Senior', 'Backend', 'FrontEnd', 'English', 'Crypto', 'Cryptocurrency', 'Cryptocurrencies', 'Security', 'Cloud', 'Node', 'System']",110.0,2022-04-30
+131,Senior Developer Back and Frontend,Steadily,"['United States', 'Canada', 'Latin America']","['JavaScript', 'Finance', 'Python', 'Senior', 'FrontEnd', 'FrontEnd', 'API', 'Mobile', 'Lead', 'Go', 'Heroku', 'Health', 'Engineer', 'Engineering']",425.0,2022-04-30
+132,GO PROGRAMMER WITH PASSION CODE & LEARN JOIN OUR EXPERIENCED TEAM & WORK BASED ON YOUR TIMEZONE,CYZA,['Probably worldwide'],"['Golang', 'Go']",125.0,2022-04-30
+133,Core Developer,Spacemesh,['Probably worldwide'],['Golang'],125.0,2022-04-30
+134,Software Engineer,Ambassador Labs,['Probably worldwide'],"['Golang', 'Engineer', 'Cloud', 'Engineering', 'Full-Time']",120.0,2022-04-30
+135,Software Engineer,Pesto,['United States'],"['JavaScript', 'React', 'Engineer', 'Video', 'UX', 'PostgreSQL', 'Backend']",200.0,2022-04-30
+136,Senior Software Engineer,Qualia,['Worldwide'],"['JavaScript', 'Meteor', 'Senior', 'Engineer', 'Engineering']",125.0,2022-04-30
+137,Software Engineer GoLang,Koalafi,['Probably worldwide'],"['Golang', 'Engineer', 'ReactJS']",122.5,2022-04-30
+138,Backend Developer,Toggl,['Probably worldwide'],"['Golang', 'Backend', 'PostgreSQL']",122.5,2022-04-30
+139,Lead Software Developer Go,Dyspatch,['Probably worldwide'],"['Golang', 'Executive', 'Lead', 'Go', 'Engineering']",122.5,2022-04-30
+140,Go Programmer with Passion Code & Learn Join Our Experienced Team & Work Your Timezone,Cyza,['Probably worldwide'],"['Golang', 'Go']",125.0,2022-04-30
+141,Senior Software Engineer,Hofy,['United Kingdom'],"['JavaScript', 'React', 'Senior', 'Golang', 'Engineer', 'Ecommerce', 'SaaS', 'Go', 'Medical', 'Engineering']",105.0,2022-04-30
+142,Ruby On Rails Developer,E-commerce Stealth Startup,['Worldwide'],"['JavaScript', 'React', 'Ruby', 'Shopify', 'GraphQL', 'Docker', 'Node', 'Rails', 'API', 'Senior', 'Engineer', 'Ecommerce', 'E-Commerce']",75.0,2022-04-30
+143,Software Engineer Golang,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Go', 'Recruiter']",120.0,2022-04-30
+144,Senior Software Engineer,GasBuddy,['Worldwide'],"['JavaScript', 'React', 'Angular', 'Senior', 'Engineer', 'FrontEnd', 'UX', 'UI', 'SEO', 'Travel', 'Mobile', 'Lead', 'System', 'Health', 'Full-Stack']",170.0,2022-04-30
+145,Cloud Developer,IDT,['Probably worldwide'],"['Cloud', 'Golang']",122.5,2022-04-30
+146,Senior Software Engineer Backend,Moov Financial,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend', 'Finance', 'Engineering']",120.0,2022-04-30
+147,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2022-04-30
+148,Senior Laravel Software Developer short term rentals,Hospitable,"['Europe', 'North America']","['JavaScript', 'PHP', 'Laravel', 'Senior', 'SaaS', 'FrontEnd', 'Bank', 'MySQL', 'API', 'Engineering', 'Backend']",145.0,2022-04-30
+149,Senior Golang Developer,MachShip,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2022-04-30
+150,Developer Relations,Textile,['Worldwide'],"['JavaScript', 'Leader', 'Full-Time']",160.0,2022-04-30
+151,Senior Node.js Backend Developer,Fable,['Canada Open to us'],"['JavaScript', 'Cloud', 'Node', 'API', 'Senior', 'Backend', 'Security', 'Node', 'Lead', 'Engineer', 'Engineering']",190.0,2022-04-30
+152,Senior Backend Software Engineer,Teleport,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2022-04-30
+153,Mobile Product Developer,Limbic,['Europe'],"['JavaScript', 'React', 'Mobile', 'Medical', 'ReactNative', 'Assistant', 'Chatbot', 'Node', 'Health']",130.0,2022-04-30
+154,Senior Software Engineer,Proof,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Legal']",122.5,2022-04-30
+155,Full Stack JS Developer,Mark Copy,['Worldwide'],"['JavaScript', 'React', 'Node', 'FullStack', 'Assistant', 'English', 'JavaScript', 'Security', 'HTML', 'Content', 'Marketing']",70.0,2022-04-30
+156,Senior Software Engineer 100% UK EU Only,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2022-04-30
+157,Golang Software Engineer,Go Tek Professional Go Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Go', 'Recruiter', 'Recruitment']",120.0,2022-04-30
+158,Developer Experience Engineer,Ghost,['Worldwide'],"['Marketing', 'Engineer', 'SEO', 'Content', 'Educational']",120.0,2022-04-30
+159,Senior Software Engineer Developer Experience,Qualia,['Worldwide'],"['JavaScript', 'Meteor', 'Senior', 'Engineer', 'Engineering']",125.0,2022-04-30
+160,Senior Go Backend Developer,Hubuc,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2022-04-30
+161,Senior Software Engineer,Coins.ph,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+162,Senior Golang Developer,Vistas Recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Go', 'Recruiter']",125.0,2022-04-30
+163,Senior Software Engineer Back End,VORTO,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2022-04-30
+164,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2022-04-30
+165,Senior Software Engineer Full Stack,VORTO,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'FullStack']",122.5,2022-04-30
+166,Senior Golang Backend Developer,Casana GmbH,['Probably worldwide'],"['Senior', 'Golang', 'Backend']",125.0,2022-04-30
+167,Senior Electron Developer,ReadyTal,['Worldwide'],"['C', 'CPlusPlus', 'Senior', 'React', 'CPlusPlus', 'Cloud', 'API']",145.0,2022-04-30
+168,Mid Senior Full Stack Ruby on Rails Developer,Bluethumb,['Worldwide'],"['JavaScript', 'Ruby', 'Senior', 'FullStack', 'FullTime', 'QualityAssurance', 'DevOps', 'Elasticsearch', 'Rails', 'Ror', 'Go', 'Engineering', 'Full-Stack']",110.0,2022-04-30
+169,Lead Backend Developer,OperateBeyond,['Worldwide'],"['Elasticsearch', 'PHP', 'Laravel', 'Backend', 'Executive', 'DevOps', 'UI', 'Mobile', 'Lead', 'jQuery', 'System']",145.0,2022-04-30
+170,GO PROGRAMMERS WITH PASSION CODE JOIN OUR MISSSION & SEASONED TEAM,CYZA,['Probably worldwide'],"['Golang', 'Senior', 'Go', 'Fullstack']",125.0,2022-04-30
+171,Senior Software Engineer,BuildBuddy,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2022-04-30
+172,GO PROGRAMMERS WITH PASSION CODE JOIN OUR SEASONED TEAM,CYZA,['Probably worldwide'],"['Golang', 'Senior', 'Go', 'Fullstack']",125.0,2022-04-30
+173,Senior Software Engineer,Oden Technologies,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+174,Senior Golang Developer for a Gaming Startup,7 of D,['Probably worldwide'],"['Senior', 'Golang', 'GameDeveloper']",125.0,2022-04-30
+175,Senior Software Engineer,Zuva,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+176,Senior Software Engineer Frontend,Juni,['United Kingdom'],"['Finance', 'Senior', 'Engineer', 'FrontEnd', 'FrontEnd', 'React', 'Financial', 'Banking', 'Engineering', 'Backend', 'E-Commerce']",135.0,2022-04-30
+177,Senior Golang Developer,Rollee,['Probably worldwide'],"['Senior', 'Golang', 'API']",125.0,2022-04-30
+178,Senior Software Engineer Backend,Mojito,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend', 'NFT']",125.0,2022-04-30
+179,Senior Cloud Software Engineer,The Wild,['Probably worldwide'],"['Cloud', 'Senior', 'Golang', 'Engineer', 'Go']",122.5,2022-04-30
+180,Backend Developer,Synthro,['Probably worldwide'],"['Golang', 'Backend', 'FrontEnd', 'Lead', 'Go', 'Engineer']",120.0,2022-04-30
+181,Backend Software Engineer,GRAX,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2022-04-30
+182,Senior Software Engineer,Cometeer,['United States'],"['Ruby', 'Senior', 'Engineer', 'QualityAssurance', 'JavaScript', 'Edu', 'Investment', 'UX', 'Rails', 'Ecommerce', 'E-Commerce']",250.0,2022-04-30
+183,Senior Ruby on Rails Developer,ReadyTal,['Worldwide'],"['Ruby', 'Senior', 'Backend', 'FrontEnd', 'Rails', 'Linux']",110.0,2022-04-30
+184,Lead Senior Go Developer,Vistas Recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Executive', 'Lead', 'Go', 'Recruiter']",122.5,2022-04-30
+185,Go Developer,LEAP Encryption Access Project,['Probably worldwide'],"['Golang', 'Go']",125.0,2022-04-30
+186,Senior Golang Backend Developer,Casana GmbH,['Probably worldwide'],"['Senior', 'Golang', 'Backend']",125.0,2022-04-30
+187,Senior Software Engineer,BlueLabs Software,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2022-04-30
+188,Senior iOS Developer,Flightradar24,['Europe'],"['Senior', 'iOS', 'Swift', 'Firebase', 'UI', 'API']",100.0,2022-04-30
+189,Senior Software Engineer,CyberArk,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Security', 'Leader']",125.0,2022-04-30
+190,Senior Back End Developer,Toptal,"['Worldwide', 'Contract']","['JavaScript', 'Node', 'Ruby', 'Senior', 'Backend', 'English', 'Node', 'Rails', 'System', 'Full-Time']",200.0,2022-04-30
+191,Senior Software Engineer,Inex One,['Europe not just EU'],"['JavaScript', 'React', 'Node', 'Senior', 'Engineer', 'FrontEnd', 'Security', 'Investor', 'SEO', 'Lead', 'System', 'Engineering', 'Backend']",110.0,2022-04-30
+192,Go Software Engineer,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Go', 'Recruiter']",120.0,2022-04-30
+193,GoLang JS Developer for Fairdrive protocol,Swarm Associaton,['Probably worldwide'],"['JavaScript', 'Golang', 'JavaScript', 'System']",122.5,2022-04-30
+194,Senior Software Engineer Backend,Reddit,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2022-04-30
+195,PHP API Developer,SaaS Industries GmbH,['Worldwide'],"['PHP', 'Laravel', 'API', 'Backend', 'Marketing', 'SaaS', 'Go', 'Engineering', 'Full-Time']",80.0,2022-04-30
+196,Junior Golang Software Developer,Doozer Real Estate Systems GmbH,['Probably worldwide'],"['Junior', 'Golang', 'Backend']",120.0,2022-04-30
+197,React Native Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'ReactNative', 'Mobile', 'Android']",35.0,2022-04-30
+198,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2022-04-30
+199,Senior Software Engineer,Security Onion Solutions,['Probably worldwide'],"['InfoSec', 'Senior', 'Golang', 'Engineer', 'Security']",122.5,2022-04-30
+200,Full Stack Typescript Senior Developer,Botmind,['Europe'],"['JavaScript', 'Cloud', 'Angular', 'Node', 'Senior', 'FullStack', 'SaaS']",80.0,2022-04-30
+201,Full Stack Developer,Penji,['Worldwide'],"['JavaScript', 'React', 'Mobile', 'FullStack', 'ReactNative', 'FrontEnd', 'Students', 'Edu', 'Admin', 'SaaS', 'System', 'Health', 'Backend']",110.0,2022-04-30
+202,Full Stack Developer .Net,HappyPorch,"['Africa', 'Europe']","['C', 'CPlusPlus', 'Git', 'FullStack', 'WebDeveloper', 'English', 'CSharp', 'API', 'Full-Time']",50.0,2022-04-30
+203,Software Engineer,GeoComm,['United States'],"['Engineer', 'English', 'Python', 'Engineering']",130.0,2022-04-30
+204,Full Stack Developer,InvergeHQ,"['Europe', 'North America', 'Worldwide', 'Latin America']","['JavaScript', 'CSS', 'PHP', 'HTML', 'Node', 'jQuery', 'Linux', 'FullStack', 'React', 'Serverless', 'Git', 'Node', 'API', 'Sales', 'Go', 'Backend', 'Ecommerce', 'Full-Time']",150.0,2022-04-30
+205,Senior Full Stack Developer Phoenix Rails,SignTracker,['Europe'],"['JavaScript', 'Ruby', 'Senior', 'FullStack', 'Testing', 'Financial', 'Investment', 'HTML', 'Rails', 'Full-Stack']",110.0,2022-04-30
+206,Full Stack Software Engineer,800.com,['United States'],"['JavaScript', 'React', 'PHP', 'Laravel', 'Senior', 'Engineer', 'Backend', 'FullStack', 'FrontEnd', 'QualityAssurance', 'Cloud', 'Git', 'API', 'Analytics', 'SaaS', 'Engineering', 'Full-Time']",275.0,2022-04-30
+207,Senior Software Engineer,Ferrum Health,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Medical', 'Engineering']",124.0,2022-04-30
+208,Python Developer,Ampcontrol.io,['Worldwide'],"['QualityAssurance', 'Python', 'Engineer', 'Redis', 'Testing', 'QualityAssurance', 'DevOps', 'English', 'Cloud', 'PostgreSQL', 'Reliability', 'System', 'Backend']",110.0,2022-04-30
+209,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2022-04-30
+210,Senior Golang Software Engineer,Humn.ai,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2022-04-30
+211,Senior Software Engineer,Zero Hash,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Finance']",122.5,2022-04-30
+212,Senior Golang Backend Developer,Casana GmbH,['Probably worldwide'],"['Senior', 'Golang', 'Backend']",125.0,2022-04-30
+213,Frontend Developer,ADDITIVE,['Europe'],"['JavaScript', 'React', 'CSS', 'Senior', 'FrontEnd', 'FrontEnd', 'English', 'HTML', 'EmberJS', 'Marketing', 'Backend']",70.0,2022-04-30
+214,Senior Python Developer,Laskie,['Latin America'],"['Python', 'Senior', 'Backend', 'English', 'Cloud', 'NoSQL']",120.0,2022-04-30
+215,Senior Fullstack Javascript Developer,Laskie,['Latin America'],"['JavaScript', 'React', 'Node', 'Senior', 'FullStack', 'English', 'PostgreSQL', 'Node', 'Junior', 'Engineer', 'Fullstack']",120.0,2022-04-30
+216,Full Stack Developer,Brenger,['Europe'],"['JavaScript', 'React', 'PHP', 'Python', 'API', 'FullStack', 'QualityAssurance', 'DevOps', 'English', 'Video', 'Git', 'Operations', 'Backend', 'E-Commerce']",40.0,2022-04-30
+217,Senior Go Backend Developer,refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2022-04-30
+218,Lead Backend Developer Go,refurbed,['Probably worldwide'],"['Golang', 'Backend', 'Executive', 'Lead', 'Go']",120.0,2022-04-30
+219,Senior Golang Developer for a Gaming Startup,7 of D,['Probably worldwide'],"['Senior', 'Golang', 'GameDeveloper']",125.0,2022-04-30
+220,Senior Software Engineer,Form3,['Canada East Canada Time Zones'],"['Cloud', 'Senior', 'Golang', 'Engineer', 'Bank', 'Lead', 'Go', 'Engineering', 'Recruitment', 'Educational', 'Backend']",155.0,2022-04-30
+221,Senior PHP Developer,Suits Me,['Worldwide'],"['Finance', 'PHP', 'Laravel', 'API', 'Senior', 'Financial', 'Fintech', 'Banking', 'Backend']",45.0,2022-04-30
+222,Senior Software Engineer,Rumble,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Security']",125.0,2022-04-30
+223,Senior Back end Developer,The Giving Block,['Worldwide'],"['JavaScript', 'Node', 'Senior', 'Backend', 'Crypto', 'Cryptocurrency', 'Sales', 'System']",100.0,2022-04-30
+224,Back end Go Developer,Precisely AB,['Probably worldwide'],"['Golang', 'Backend', 'Legal', 'SaaS', 'Go']",123.0,2022-04-30
+225,Experienced Symfony Developer,Shape & Shift,['Worldwide'],"['JavaScript', 'PHP', 'Laravel', 'Senior', 'CSS', 'HTML', 'Admin', 'System', 'Go', 'E-Commerce', 'Shopify']",60.0,2021-04-30
+226,Senior Software Engineer,8returns,['Europe'],"['JavaScript', 'React', 'Ruby', 'Senior', 'Engineer', 'Rails', 'Junior', 'E-Commerce']",120.0,2022-04-30
+227,Senior Software Engineer Backend,Mojito,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend', 'NFT']",125.0,2022-04-30
+228,Software Engineer Durable Objects,Cloudflare,['United States'],"['JavaScript', 'C', 'CPlusPlus', 'API', 'Engineer', 'Security', 'Serverless', 'CPlusPlus', 'Reliability']",230.0,2021-04-30
+229,Software Engineer Opportunity,MaxMind,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2022-04-30
+230,Full Stack Software Engineer,Prominent Edge,['Worldwide'],"['JavaScript', 'React', 'Java', 'C', 'CPlusPlus', 'Python', 'Angular', 'Node', 'Engineer', 'FullStack', 'DevOps', 'Security', 'Serverless', 'Lambda', 'Cloud', 'Engineering', 'Apache', 'Backend', 'Full-Stack']",190.0,2021-04-30
+231,Web Application Developer,"Performant Software Solutions, LLC",['United States'],"['JavaScript', 'React', 'FullTime', 'FrontEnd', 'WebDeveloper', 'Health']",105.0,2022-04-30
+232,Golang Developer,Catapult Solutions Group,['Probably worldwide'],['Golang'],125.0,2022-04-30
+233,Software Engineer Ruby on Rails,WellSky,"['United States', 'Canada']","['Cloud', 'Ruby', 'Engineer', 'Teaching', 'Rails', 'SaaS', 'Health', 'Medical', 'Engineering']",195.0,2022-04-30
+234,Cloud Developer,IDT,['Probably worldwide'],"['Cloud', 'Golang']",122.5,2022-04-30
+235,Senior React Developer,plan.com,['Europe'],"['JavaScript', 'React', 'Senior', 'React']",110.0,2022-04-30
+236,Senior PHP Developer,Plan.com,['Europe'],"['PHP', 'Senior', 'FrontEnd', 'Git']",100.0,2022-04-30
+237,Senior Full stack JavaScript Developer,CloudDevs,['Europe'],"['JavaScript', 'React', 'Node', 'Senior', 'FullStack', 'English', 'PostgreSQL', 'Node', 'Junior', 'Engineer']",120.0,2022-04-30
+238,Software Development Engineer IV Tech Lead,ID.me,['United States'],"['Executive', 'Engineer', 'TechLead', 'Security', 'Git', 'Ruby', 'Lead', 'Health', 'Medical', 'Engineering', 'Executive']",270.0,2021-04-30
+239,Software Engineer,Alpaca,['Probably worldwide'],"['Golang', 'Engineer', 'Fintech', 'API']",120.0,2021-04-30
+240,Backend Golang Developer,NetRise,['Probably worldwide'],"['Golang', 'Backend', 'Security']",122.5,2021-04-30
+241,Backend Developer Golang,Paessler AG,['Probably worldwide'],"['Golang', 'Backend', 'Cloud']",120.0,2021-04-30
+242,Backend Developer,iPhone Photography School,['Worldwide'],"['DevOps', 'JavaScript', 'Amazon', 'PHP', 'Laravel', 'API', 'Backend', 'WebDeveloper', 'Mobile', 'Leader', 'Full-Time']",95.0,2021-04-30
+243,Backend Developer Golang,Bearer,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+244,Senior Software Quality Assurance Engineer,OperateBeyond,['Worldwide'],"['QualityAssurance', 'Senior', 'Engineer', 'Testing', 'QualityAssurance', 'English', 'Mobile']",55.0,2021-04-30
+245,Full Stack Developer,Playmaker,"['Europe', 'Africa']","['JavaScript', 'React', 'Node', 'FullStack', 'English', 'Cloud', 'Mobile']",125.0,2021-04-30
+246,Full Stack Developer,Raketech Group,['Europe'],"['JavaScript', 'Java', 'PHP', 'Laravel', 'CSS', 'HTML', 'Python', 'API', 'FullStack', 'Wordpress', 'React', 'English', 'Node', 'Mobile', 'Junior', 'Backend']",60.0,2021-04-30
+247,Senior Ruby on Rails Developer,Whitespectre,['Worldwide'],"['JavaScript', 'React', 'Ruby', 'Senior', 'React', 'Investment', 'Rails', 'SaaS', 'Go', 'Engineer', 'Recruitment', 'Full-Time']",95.0,2021-04-30
+248,Freelance Senior JavaScript Developer,smartclip Europe GmbH,['Europe'],"['JavaScript', 'React', 'Node', 'Senior', 'FrontEnd', 'UI']",110.0,2021-04-30
+249,Senior Software Engineer Advanced Cluster Security,Red Hat,['Probably worldwide'],"['InfoSec', 'Senior', 'Golang', 'Engineer', 'Security', 'Engineering']",122.5,2021-04-30
+250,Senior Golang Developer,Randlabs,['Probably worldwide'],"['Senior', 'Golang', 'Financial']",125.0,2021-04-30
+251,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2021-04-30
+252,Software Engineer,FutureLearn,['United Kingdom'],"['JavaScript', 'React', 'Ruby', 'Engineer', 'Teach', 'Teaching', 'Security', 'Edu', 'Rails', 'Reliability', 'System', 'Health', 'Recruitment']",105.0,2021-04-30
+253,Senior Full Stack JavaScript Developer,DebugBear,['United Kingdom'],"['JavaScript', 'React', 'Node', 'Senior', 'FullStack', 'Cloud', 'SaaS', 'Full-Stack']",150.0,2021-04-30
+254,Senior Backend Developer Node,Bitfinex,['Worldwide'],"['JavaScript', 'Node', 'Senior', 'Backend', 'Cryptocurrency', 'Financial', 'Security', 'CPlusPlus', 'API']",120.0,2021-04-30
+255,Senior Backend Software Engineer,Teleport,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2021-04-30
+256,Software Engineer,IRL,['Worldwide'],"['Engineer', 'NoSQL', 'API', 'Leader', 'System', 'Medical', 'Backend']",123.48917525773196,2021-04-30
+257,Sr Front End Developer,Yuhu Inc.,"['North America', 'Latin America']","['JavaScript', 'React', 'FrontEnd', 'Security', 'Ruby', 'Rails', 'Senior', 'Excel', 'System', 'Go', 'Engineering']",170.0,2021-04-30
+258,Principal Software Engineer,FATJOE,['Worldwide'],"['PHP', 'SEO', 'Engineer', 'Executive', 'QualityAssurance', 'JavaScript', 'Security', 'Laravel', 'CSS', 'MySQL', 'Leader', 'Lead', 'Marketing', 'Engineering']",120.0,2021-04-30
+259,Go Developer,Confio GmbH,['Probably worldwide'],"['Golang', 'Go']",125.0,2021-04-30
+260,Senior Software Engineer,Circle,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Banking']",125.0,2021-04-30
+261,PHP Developer,OperateBeyond,['Worldwide'],"['Elasticsearch', 'PHP', 'Laravel', 'UI', 'Mobile', 'jQuery', 'System']",115.0,2021-04-30
+262,GoLang Kubernetes Developer,EDB,['Probably worldwide'],['Golang'],125.0,2021-04-30
+263,Full Stack Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'Node', 'FullStack', 'English', 'Ruby', 'System', 'Full-Time']",260.0,2021-04-30
+264,Front End Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'FrontEnd', 'English', 'System', 'Full-Time']",260.0,2021-04-30
+265,Sr QA Functional AEM Big Data Analytics Company,Truelogic Software,['Brazil'],"['Testing', 'QualityAssurance', 'Operations', 'Analytics']",129.0,2021-04-30
+266,Tailwind React Front end Developer for B2B Platform,Dotsub,['Worldwide'],"['JavaScript', 'React', 'CSS', 'FrontEnd', 'Video', 'UI']",110.0,2021-04-30
+267,Cloud Native Kubernetes Developer and Writer,Draft.dev,['Worldwide'],"['DevOps', 'Cloud', 'Content', 'Marketing']",40.0,2021-04-30
+268,Full Stack Web Developer,Quantified Commerce,['Worldwide'],"['Symfony', 'PHP', 'Backend', 'FullStack', 'WebDeveloper', 'Git', 'MySQL', 'Full-Time']",70.0,2021-04-30
+269,Senior Software Engineer 100% UK EU Only,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+270,Lead Ruby on Rails Developer,Rentola,['Worldwide'],"['Ruby', 'FullStack', 'Executive', 'NoSQL', 'Rails', 'Lead', 'Senior', 'Ror', 'Engineering']",100.0,2021-04-30
+271,Senior Software Engineer,Octopus Hydrogen,['United Kingdom'],"['JavaScript', 'React', 'Node', 'Senior', 'Engineer', 'Scheme', 'Node', 'Engineering', 'Full-Stack']",145.0,2021-04-30
+272,Senior Software Engineer,RStudio,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+273,Full stack Developer,Flightradar24,['Europe'],"['PHP', 'API', 'FullStack', 'DevOps', 'JavaScript', 'Cloud', 'Lead', 'Full-Stack']",90.0,2021-04-30
+274,Senior Software Engineer,strongDM,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+275,Platform Software Engineer,Lytics,['Probably worldwide'],"['Golang', 'Engineer', 'Cloud', 'API']",125.0,2021-04-30
+276,Back End Developer,Toptal,['Worldwide'],"['JavaScript', 'Node', 'Ruby', 'Backend', 'English', 'Node', 'Rails', 'System', 'Full-Time']",260.0,2021-04-30
+277,Go Software Engineer,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Go', 'Recruiter']",120.0,2021-04-30
+278,Senior Front End Developer,Travis,['Worldwide'],"['JavaScript', 'Senior', 'FrontEnd', 'FrontEnd', 'VueJS', 'Video', 'Travel', 'Lead']",115.0,2021-04-30
+279,Senior Software Engineer Kubernetes,Pulumi,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud']",122.5,2021-04-30
+280,Meteor.js Developer,Disclosure to Interested Applicants,"['Toronto', 'Ontario Canada']","['JavaScript', 'Meteor']",125.0,2021-04-30
+281,Go Software Developer,Mindera,['Probably worldwide'],"['Golang', 'Go', 'Engineer', 'Backend']",120.0,2021-04-30
+282,Senior Software Engineer Platform,Doximity,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+283,Lead Blockchain Developer,ixo.world,['Probably worldwide'],"['Golang', 'Executive', 'Lead']",122.5,2021-04-30
+284,Node.js Developer,Toptal,['Worldwide'],"['JavaScript', 'Node', 'Backend', 'English', 'Node', 'System', 'Full-Time']",260.0,2021-04-30
+285,Software Engineer Internal Tooling,FullStory,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+286,Principal Software Engineer,Splice,['Probably worldwide'],"['Golang', 'Engineer', 'FrontEnd', 'Backend']",120.0,2021-04-30
+287,Software Engineer Golang Rust & Kubernetes,Silico,['Probably worldwide'],"['Golang', 'Engineer', 'Travel', 'Backend']",123.0,2021-04-30
+288,Senior Full Stack developer with backend focus,More Digital Studios,['Europe'],"['Senior', 'Backend', 'FullStack', 'Laravel', 'Angular', 'Node', 'Mobile', 'Full-Time']",85.0,2021-04-30
+289,Principal Software Engineer,Cogsy,['Worldwide'],"['JavaScript', 'React', 'Node', 'Engineer', 'FullStack', 'Travel', 'Lead', 'Heroku', 'Full-Stack']",195.0,2021-04-30
+290,Senior Software Engineer iOS,MyFitnessPal,['United States'],"['Senior', 'Engineer', 'iOS', 'Swift', 'Git', 'Mobile', 'Operations', 'Objective-C', 'Health', 'Engineering']",205.0,2021-04-30
+291,Senior Software Engineer,Caring.com,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+292,Full Stack Meteor + Blaze Developer Montreal,Medipense,['Worldwide'],"['JavaScript', 'Meteor', 'FullStack']",122.5,2021-04-30
+293,Full Stack Meteor + Blaze Developer,Medipense,['Canada'],"['JavaScript', 'Meteor', 'FullStack']",122.5,2021-04-30
+294,Lead Full Stack Developer,Sezzle Europe,['Worldwide'],"['JavaScript', 'React', 'Java', 'FullStack', 'Executive', 'DevOps', 'Fintech', 'Cloud', 'Mobile', 'Lead', 'Operational', 'Sales', 'Engineering', 'Ecommerce', 'Full-Stack']",145.0,2021-04-30
+295,Golang Developer,The Things Industries,['Worldwide'],"['Golang', 'DevOps']",95.0,2021-04-30
+296,Senior Software Engineer Golang TypeScript,Chainlink Labs,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Security']",125.0,2021-04-30
+297,Software Engineer Video,Mux,['Probably worldwide'],"['Video', 'Golang', 'Engineer']",120.0,2021-04-30
+298,Senior Software Engineer,Alternative,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+299,Senior Android Developer,Toptal,['Worldwide'],"['Senior', 'Android', 'English', 'System', 'Full-Time']",260.0,2021-04-30
+300,Senior Swift Developer,Toptal,['Worldwide'],"['Senior', 'Swift', 'English', 'System', 'Full-Time']",260.0,2021-04-30
+301,Senior React Native Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'Senior', 'ReactNative', 'English', 'System', 'Full-Time']",260.0,2021-04-30
+302,Senior React Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'Senior', 'English', 'System', 'Full-Time']",260.0,2021-04-30
+303,Node.JS TypeScript Backend Developer for Star Citizen,Turbulent,['Worldwide'],"['JavaScript', 'Video', 'Node', 'Backend', 'GameDeveloper', 'Security', 'Cloud', 'PHP', 'NoSQL', 'Node', 'Marketing', 'Linux']",105.0,2021-04-30
+304,Principal Software Engineer,Bishop Fox,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+305,Systems Software Engineer Compiler Virtual Machines,Radix DLT,['Worldwide'],"['Crypto', 'Engineer', 'Web3', 'Blockchain', 'Financial', 'Investment', 'Finance', 'Go']",135.0,2021-04-30
+306,Senior Software Engineer,BibliU,['Australia'],"['JavaScript', 'Node', 'Senior', 'Engineer', 'FrontEnd', 'Students', 'Security', 'Edu', 'Serverless', 'Node', 'Junior', 'Engineering']",150.0,2021-04-30
+307,Golang Back End Developer,Imaginary Cloud,['Probably worldwide'],"['Golang', 'Backend', 'Cloud', 'Mobile']",123.0,2021-04-30
+308,Software Engineer,Capchase,['Europe'],"['JavaScript', 'React', 'Finance', 'Python', 'Node', 'Golang', 'Engineer', 'FrontEnd', 'English', 'Security', 'Fintech', 'Senior', 'Junior', 'Reliability', 'Backend']",80.0,2021-04-30
+309,Creative Front End Developer,Series Eight,"['United Kingdom', 'Europe']","['JavaScript', 'React', 'Ecommerce', 'Shopify', 'FrontEnd', 'CSS', 'HTML', 'Git', 'E-Commerce', 'Full-Time']",85.0,2021-04-30
+310,Full Stack Developer,InvergeHQ,"['United States', 'Europe']","['JavaScript', 'Amazon', 'PHP', 'FullStack', 'React', 'Serverless', 'Git', 'Node', 'Node', 'API', 'Sales', 'Go', 'Backend', 'Ecommerce', 'Full-Time']",140.0,2021-04-30
+311,Software Engineer,Redeam,['Probably worldwide'],"['Golang', 'Engineer', 'Engineering']",122.5,2021-04-30
+312,Python Developer,2amigos Consulting Group,['Latin America'],"['JavaScript', 'Python', 'Engineer', 'FullStack', 'English']",95.0,2021-04-30
+313,Senior Software Engineer,PacketFabric,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+314,Golang Senior Software Engineer,Agentero,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+315,Senior Backend Developer PHP API,Flightradar24,['Europe'],"['PHP', 'API', 'Senior', 'Backend', 'DevOps', 'Cloud', 'Lead', 'Operations']",110.0,2021-04-30
+316,Staff Software Engineer Traffic Foundation,Walmart Global Tech,['Probably worldwide'],"['Golang', 'Engineer', 'Ecommerce']",120.0,2021-04-30
+317,React Frontend Developer,The Things Industries,['Worldwide'],"['JavaScript', 'React', 'Golang', 'FrontEnd', 'FrontEnd', 'HTML', 'Git']",80.0,2021-04-30
+318,React Developer,Saga Ventures,['Worldwide'],"['JavaScript', 'React', 'JavaScript', 'Financial']",140.0,2021-04-30
+319,Blockchain Core Developer,Spacemesh,['Probably worldwide'],"['Golang', 'Senior', 'Go']",125.0,2021-04-30
+320,Senior Software Engineer,Cape Privacy,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+321,Senior Go Backend Developer,Sketch,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2021-04-30
+322,Backend Software Engineer,Teleport,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+323,🌶️ Senior Golang Backend Developer Freelance 100,cloudradar GmbH,['Probably worldwide'],"['Senior', 'Golang', 'Backend']",125.0,2021-04-30
+324,Senior PHP Developer,Junea,['Europe'],"['JavaScript', 'PHP', 'Laravel', 'Senior', 'VueJS', 'Full-Stack']",65.0,2021-04-30
+325,Senior Fullstack Developer,SellerLot,['Worldwide'],"['JavaScript', 'Python', 'API', 'Senior', 'Ecommerce', 'FullStack', 'Fullstack', 'Full-Stack']",55.0,2021-04-30
+326,Senior Software Engineer,SumUp,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Financial', 'Engineering']",125.0,2021-04-30
+327,Senior Frontend Developer,Winden,['Worldwide'],"['JavaScript', 'React', 'Senior', 'FrontEnd', 'FrontEnd', 'React', 'Financial', 'Fintech', 'Banking', 'CSS', 'Backend']",95.0,2021-04-30
+328,Senior Backend Developer,xapix,['Europe'],"['JavaScript', 'Ruby', 'Senior', 'Backend', 'Ecommerce', 'English', 'Video', 'Amazon', 'API', 'Travel', 'Engineering', 'Recruitment', 'Shopify']",75.0,2021-04-30
+329,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2021-04-30
+330,Experienced Rails and or Mobile Software Engineer,MyHealthTeams,['United States'],"['JavaScript', 'Angular', 'Ruby', 'Mobile', 'Engineer', 'Mongo', 'Rails', 'Senior', 'Go', 'Health', 'Full-Stack', 'Full-Time']",175.0,2021-04-30
+331,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+332,Back End Software Engineer,nesto,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+333,Fullstack Developer,Toggl Hire,['Probably worldwide'],"['Golang', 'FullStack', 'FrontEnd', 'React', 'Backend', 'Fullstack']",120.0,2021-04-30
+334,Software Engineer Integrations,WellHive,['Probably worldwide'],"['Golang', 'Engineer', 'Health']",122.5,2021-04-30
+335,Software Design Engineer Test,FinDox Inc,"['PT', 'MT', 'CT', 'ET', 'UTC6', 'UTC7']","['JavaScript', 'Finance', 'Engineer', 'Design', 'Testing', 'FrontEnd', 'DevOps', 'Financial', 'Security', 'Investment', 'API', 'System', 'Backend']",100.0,2021-04-30
+336,Fullstack Tools Developer,Turbulent,['Worldwide'],"['JavaScript', 'React', 'PHP', 'FullStack', 'GameDeveloper', 'FrontEnd', 'Video', 'Security', 'C', 'Cloud', 'Backend', 'Fullstack']",115.0,2021-04-30
+337,Senior Fullstack Developer,IMG.LY,['Europe'],"['JavaScript', 'React', 'Angular', 'Ruby', 'Senior', 'FullStack', 'VueJS', 'UI', 'Rails', 'Fullstack']",130.0,2021-04-30
+338,Back End Web Developer Golang,Big Nerd Ranch,['Probably worldwide'],"['Golang', 'Backend', 'WebDeveloper', 'Android']",120.0,2021-04-30
+339,Senior Backend Developer,gridX GmbH,['Probably worldwide'],"['Senior', 'Golang', 'Backend']",125.0,2021-04-30
+340,Senior Software Engineer,Algorand,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+341,Software Engineer,Spacelift,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+342,Senior Software Engineer,BuildBuddy,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+343,Senior Software Engineer,JHA Banno,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Financial', 'Mobile']",122.5,2021-04-30
+344,Full Stack React Developer,Dock,['Worldwide'],"['JavaScript', 'React', 'Node', 'FullStack', 'GraphQL', 'UX', 'Node', 'Sales', 'SaaS', 'Engineer']",120.0,2021-04-30
+345,Android Developer,Toptal,['Worldwide'],"['Android', 'English', 'System', 'Full-Time']",160.0,2021-04-30
+346,Swift Developer,Toptal,['Worldwide'],"['Swift', 'English', 'System', 'Full-Time']",160.0,2021-04-30
+347,Java Developer,Toptal,['Worldwide'],"['Java', 'Backend', 'English', 'System', 'Full-Time']",160.0,2021-04-30
+348,React Native Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'ReactNative', 'FrontEnd', 'English', 'System', 'Full-Time']",160.0,2021-04-30
+349,Senior React Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'Senior', 'English', 'System', 'Full-Time']",160.0,2021-04-30
+350,Frontend Developer,Netalico,"['North America', 'Latin America']","['JavaScript', 'CSS', 'HTML', 'Ecommerce', 'Shopify', 'FrontEnd', 'FrontEnd', 'Health', 'E-Commerce']",105.0,2021-04-30
+351,Fullstack developer,Visitt,['Worldwide'],"['JavaScript', 'React', 'NoSQL', 'Node', 'FullStack', 'GraphQL', 'Mobile', 'Sales', 'Fullstack']",195.0,2021-04-30
+352,Senior Frontend Developer,Laskie,['Latin America'],"['JavaScript', 'React', 'Senior', 'FrontEnd', 'FrontEnd', 'English']",85.0,2021-04-30
+353,Fullstack JavaScript Developer,Laskie,['Latin America'],"['JavaScript', 'React', 'Node', 'FullStack', 'English', 'Cloud', 'PostgreSQL', 'Node', 'Senior', 'Engineer', 'Fullstack']",85.0,2021-04-30
+354,Senior Fullstack JavaScript Developer,Laskie,['Latin America'],"['JavaScript', 'React', 'Node', 'Senior', 'FullStack', 'English', 'PostgreSQL', 'Node', 'Junior', 'Engineer', 'Fullstack']",120.0,2021-04-30
+355,Mid Senior Developer,Tiny,['Asia'],"['JavaScript', 'React', 'Node', 'Senior', 'FrontEnd', 'API', 'Content', 'Engineering', 'Backend']",123.48917525773196,2021-04-30
+356,Software Engineer,Cash Flow Portal,['North America'],"['JavaScript', 'React', 'Python', 'Heroku', 'Engineer', 'FrontEnd', 'Financial', 'Amazon', 'Leader', 'Operational', 'Reliability', 'Go', 'Engineering']",150.0,2021-04-30
+357,Senior Unity Developer,Basement Games,['Worldwide'],"['Senior', 'GameDeveloper', 'CSharp', 'Engineering']",150.0,2021-04-30
+358,Software Engineer,BitClout,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+359,Senior Software Engineer,Juni Technology,['Worldwide'],"['Finance', 'Senior', 'Golang', 'Engineer', 'FrontEnd', 'DevOps', 'Financial', 'Security', 'Banking', 'Go', 'Health', 'Engineering', 'Backend', 'E-Commerce']",125.0,2021-04-30
+360,Senior Software Engineer,Vistas Recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Leader', 'Lead', 'Junior', 'Recruiter']",120.0,2021-04-30
+361,Full Stack Developer,Crowdlinker,['Worldwide'],"['JavaScript', 'React', 'Node', 'FullStack', 'FrontEnd', 'DevOps', 'Video', 'Laravel', 'Cloud', 'CSS', 'PHP', 'NoSQL', 'Git', 'Node', 'Mobile', 'Marketing', 'Medical', 'Backend', 'Full-Stack']",125.0,2021-04-30
+362,Lead Backend Developer Go,refurbed,['Probably worldwide'],"['Golang', 'Backend', 'Executive', 'Lead', 'Go']",120.0,2021-04-30
+363,Senior Go Backend Developer,refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2021-04-30
+364,PHP Developer,OperateBeyond,['Worldwide'],"['JavaScript', 'Elasticsearch', 'PHP', 'Laravel', 'UI', 'Mobile', 'jQuery', 'System']",125.0,2021-04-30
+365,PHP Developer,OperateBeyond,['Worldwide'],"['JavaScript', 'Elasticsearch', 'PHP', 'Laravel', 'UI', 'Mobile', 'jQuery', 'System']",125.0,2021-04-30
+366,PHP Developer,OperateBeyond,['Worldwide'],"['JavaScript', 'Elasticsearch', 'PHP', 'Laravel', 'UI', 'Mobile', 'jQuery', 'System']",125.0,2021-04-30
+367,Senior software engineer,Weaveworks,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+368,Front End Developer,SuprNation,['Europe'],"['JavaScript', 'CSS', 'HTML', 'Angular', 'Mobile', 'FrontEnd', 'GameDeveloper', 'UI']",105.0,2021-04-30
+369,Backend Software Engineer,Fugue,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'Cloud']",123.0,2021-04-30
+370,Founding Full Stack Developer,Jiga (YC W21),['European Timezone'],"['JavaScript', 'React', 'Node', 'Backend', 'FullStack', 'FrontEnd', 'Music', 'UI', 'API', 'Medical']",65.0,2021-04-30
+371,Web Application Developer,Toolmaker.de,"['Worldwide', 'Germany', 'Europe']","['JavaScript', 'Meteor', 'WebDeveloper']",122.5,2021-04-30
+372,Software Engineer Code Artisan,Boom Learning,['United States'],"['JavaScript', 'Meteor', 'Engineer']",122.5,2021-04-30
+373,PHP Developer,OperateBeyond,['Worldwide'],"['JavaScript', 'Elasticsearch', 'PHP', 'Laravel', 'UI', 'Mobile', 'jQuery', 'System']",125.0,2021-04-30
+374,Principal Software Engineer,Carted,['Worldwide'],"['Golang', 'Engineer']",300.0,2021-04-30
+375,Front end Developer,Traefik Labs,['Probably worldwide'],"['Golang', 'FrontEnd']",122.5,2021-04-30
+376,Senior Software Engineer 100% East Canada Time Zones,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+377,Senior Software Engineer 100% East Canada,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+378,Software Engineer,Argyle,['Worldwide'],"['Python', 'Engineer', 'Docker', 'Engineering']",80.0,2021-04-30
+379,Senior Software Engineer Consul Ecosystem,HashiCorp,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud']",122.5,2021-04-30
+380,Senior Software Engineer 100% Canada,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+381,Senior Software Engineer,Laskie,['Latin America'],"['JavaScript', 'React', 'Node', 'Senior', 'Engineer', 'FullStack', 'English', 'Cloud', 'PostgreSQL', 'Node', 'Junior']",90.0,2021-04-30
+382,Freelance WordPress Developer,Codeable.io,['Worldwide'],"['DevOps', 'JavaScript', 'InfoSec', 'CSS', 'QualityAssurance', 'PHP', 'HTML', 'Git', 'API', 'Photoshop', 'jQuery', 'Ecommerce', 'Design', 'Wordpress', 'WebDeveloper', 'English']",235.0,2021-04-30
+383,Senior Backend Python Developer,FeedStock,"['Europe', 'United Kingdom']","['Python', 'Senior', 'Linux', 'Backend', 'DevOps', 'Financial', 'Security', 'Cloud', 'Scheme', 'Junior', 'Analytics', 'SaaS', 'System', 'Health']",90.0,2021-04-30
+384,Senior Software Engineer,Vistas Recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Recruiter']",122.5,2021-04-30
+385,Senior Software Developer,crate.io,['Europe'],"['Java', 'Senior', 'BigData', 'Financial', 'Amazon', 'Cloud', 'NoSQL', 'Python', 'Engineer', 'Full-Time']",135.0,2021-04-30
+386,Front End Developer <3,KOTA,['Worldwide'],"['JavaScript', 'CSS', 'Wordpress', 'FrontEnd', 'React', 'English', 'UX']",70.0,2021-04-30
+387,Software Engineer Backend,GRAX,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+388,Senior back end developer,Accountable,"['Europe', 'Morocco']","['JavaScript', 'Node', 'Senior', 'Backend', 'Assistant', 'React', 'Financial', 'Node', 'Junior', 'Marketing', 'Reliability', 'Recruitment']",75.0,2021-04-30
+389,Senior Software Engineer,Vistas Recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go', 'Recruiter']",122.5,2021-04-30
+390,Software Engineer Go Distributed Systems,Canonical,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+391,Senior Software Engineer US Canada,MaxMind,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+392,Senior Software Engineer,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+393,Golang Software Engineer,Percona,['Probably worldwide'],"['Golang', 'Engineer', 'Full-Time']",122.5,2021-04-30
+394,Senior Software Engineer,NTWRK,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+395,GO Senior Back end Developer,Artella,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2021-04-30
+396,Senior Software Engineer,Inside Real Estate,['United States'],"['JavaScript', 'React', 'Node', 'Senior', 'Engineer', 'ReactNative', 'UX', 'UI', 'Mobile', 'Lead', 'Android', 'Engineering', 'Executive']",185.0,2021-04-30
+397,Senior Software Engineer,MessageBird,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+398,Software Engineer,BlueLabs,['Probably worldwide'],"['Golang', 'Engineer', 'PostgreSQL', 'Operational']",122.5,2021-04-30
+399,Software Engineer Go,Juni Technology AB,['Probably worldwide'],"['Golang', 'Engineer', 'Financial', 'Banking', 'Go']",122.5,2021-04-30
+400,Android Developer,BOOZ.cl,['Worldwide'],"['Android', 'FrontEnd', 'React', 'Leader', 'Full-Stack']",50.0,2021-04-30
+401,Full Stack Developer,Karshare,['Europe'],"['JavaScript', 'React', 'Elasticsearch', 'Serverless', 'Node', 'FullStack', 'GraphQL', 'JavaScript', 'Security', 'Lambda', 'Cloud', 'NoSQL', 'API']",80.0,2021-04-30
+402,Full Stack Developer Développeur Full Stack,Alvéole Montréal Inc.,['Canada'],"['Backend', 'FullStack', 'FrontEnd', 'React', 'JavaScript', 'Security', 'NoSQL', 'Angular', 'Node', 'API', 'Lead', 'Health', 'Full-Stack']",70.0,2021-04-30
+403,Front end Lead Developer JavaScript,Affinda,['Worldwide'],"['JavaScript', 'React', 'FrontEnd', 'Executive', 'Lead', 'Engineer', 'Engineering', 'Full-Stack']",170.0,2021-04-30
+404,Creative Front End Developer,Series Eight,['Worldwide'],"['JavaScript', 'React', 'PHP', 'Laravel', 'Ecommerce', 'Shopify', 'Wordpress', 'FrontEnd', 'CSS', 'HTML', 'Git']",85.0,2021-04-30
+405,Senior Software Developer,AUCTA.io,"['Worldwide', 'Europe']","['JavaScript', 'React', 'Senior', 'Engineering']",95.0,2021-04-30
+406,Full Stack Developer,Pacific Consulting Group,['Worldwide'],"['JavaScript', 'Node', 'FullStack', 'React', 'Financial', 'NodeJS', 'Cloud', 'Python', 'Mobile', 'Lead', 'Analytics', 'System', 'Engineering', 'Linux']",105.0,2021-04-30
+407,Go Software Developer,Mindera,['Probably worldwide'],"['Golang', 'Go', 'Engineer', 'Backend']",120.0,2021-04-30
+408,Senior Software Engineer,elblox ag,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+409,Back End Java Developer,SNOMED International,"['United Kingdom', 'Germany', 'Europe', 'Denmark']","['Java', 'Backend', 'Bank', 'Elasticsearch', 'Mathematics', 'Git', 'MySQL', 'Health', 'Medical', 'Engineering']",85.0,2021-04-30
+410,Senior Software Engineer,BlueRithm,['Worldwide'],"['JavaScript', 'CSS', 'API', 'Xamarin', 'Senior', 'jQuery', 'Engineer', 'FullStack', 'Payroll', 'DevOps', 'UX', 'Microsoft', 'Mobile', 'Junior', 'Health', 'Engineering', 'Full-Stack', 'Full-Time']",210.0,2021-04-30
+411,Software Engineer,Triplebyte,['Worldwide'],"['JavaScript', 'React', 'Ruby', 'Engineer', 'Rails', 'Sales']",110.0,2021-04-30
+412,Senior Software Engineer,Spyscape,['Worldwide'],"['DevOps', 'JavaScript', 'Ruby', 'Senior', 'Engineer', 'Backend', 'FrontEnd', 'React', 'Lambda', 'PostgreSQL', 'Node', 'Rails', 'Admin', 'Mobile', 'Content', 'Full-Time']",120.0,2021-04-30
+413,JS Full Stack Developer (Czech Republic),RobotICT s.r.o,"['Czechia', 'Europe']","['JavaScript', 'Meteor', 'FullStack', 'JavaScript']",122.5,2021-04-30
+414,React.js Developer,Appsilon,['Worldwide'],"['JavaScript', 'React', 'Python', 'WebDeveloper', 'FrontEnd', 'React', 'English', 'UX', 'Senior', 'System', 'Recruitment', 'Backend', 'Full-Time']",115.0,2021-04-30
+415,Full Stack Developer,AMNESIA media,['Worldwide'],"['JavaScript', 'React', 'Python', 'MachineLearning', 'ArtificialIntelligence', 'AI', 'DeepLearning', 'NeuralNetworks', 'FullStack', 'English', 'Lead', 'Senior', 'Marketing', 'Legal', 'SaaS', 'System', 'Medical', 'Engineer', 'Engineering']",145.0,2021-04-30
+416,Senior Backend Developer,SalesChamp B.V.,['Europe'],"['JavaScript', 'PHP', 'Node', 'Senior', 'Backend', 'Rabbitmq', 'Docker', 'Node', 'Mongo', 'Sales']",85.0,2021-04-30
+417,Senior Software Developer,Cmd,['Probably worldwide'],"['Senior', 'Golang']",125.0,2021-04-30
+418,Senior Software Engineer,elblox ag,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+419,Software Engineer,Spot.xyz,['Worldwide'],"['JavaScript', 'React', 'Node', 'Engineer', 'VFX', 'Video', 'UI', 'HTML', 'Engineering', 'Backend']",145.0,2021-04-30
+420,Senior Software Engineer,RetailNext,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud', 'Analytics']",122.5,2021-04-30
+421,Senior PHP Developer,Rebilly,['Worldwide'],"['PHP', 'Symfony', 'Senior', 'Docker', 'Jira', 'JavaScript', 'System']",105.0,2021-04-30
+422,Full Stack Software Engineer,GooseChase,['North America'],"['JavaScript', 'Python', 'Node', 'Engineer', 'FullStack', 'Students', 'DevOps', 'Security', 'Cloud', 'UX', 'PostgreSQL', 'Node', 'Admin', 'Microsoft', 'Marketing', 'Engineering', 'Apache', 'Full-Stack']",105.0,2021-04-30
+423,Backend Developer,Call Levels Pte Ltd,"['Singapore', 'Malaysia', 'Indonesia', 'Philippines', 'India', 'China', 'Hong Kong', 'Worldwide']","['JavaScript', 'Finance', 'Chatbot', 'Node', 'API', 'Backend', 'React']",70.0,2021-04-30
+424,Search & Discovery Software Engineer,AlphaSights,['United States'],"['Engineer', 'Investment', 'Backend']",123.48917525773196,2021-04-30
+425,Lead Backend Developer Go,refurbed,['Probably worldwide'],"['Golang', 'Backend', 'Executive', 'Lead', 'Go']",120.0,2021-04-30
+426,Senior Go Backend Developer,refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2021-04-30
+427,Senior Software Engineer Ruby on Rails,Syncro,"['United States', 'Canada']","['Ruby', 'Senior', 'Engineer', 'Edu', 'Rails']",200.0,2021-04-30
+428,React Native Developer,Mozn,['United Kingdom'],"['JavaScript', 'React', 'ReactNative', 'Mobile', 'Android']",20.0,2021-04-30
+429,Senior Go Backend Architect & Developer,Numus,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Architecture', 'Go']",122.5,2021-04-30
+430,Backend Software Developer,OAGenius,['Worldwide'],"['Backend', 'Ecommerce', 'React', 'English', 'NodeJS', 'NoSQL', 'MySQL', 'Sales', 'SaaS', 'Full-Time']",100.0,2021-04-30
+431,Software Engineer,Splashlight Studios,['Worldwide'],"['JavaScript', 'Java', 'PHP', 'Engineer', 'Jira', 'Video', 'Security', 'Cloud', 'PostgreSQL', 'API', 'Admin', 'Leader', 'Content', 'Marketing', 'Analytics', 'Engineering', 'E-Commerce']",100.0,2021-04-30
+432,Full Stack Developer,Likvido,['Worldwide'],"['JavaScript', 'C', 'CPlusPlus', 'FullStack', 'FrontEnd', 'Accounting', 'Accountant', 'VueJS', 'Bank', 'Mongo', 'API', 'Microsoft', 'Senior', 'Go', 'Backend']",55.0,2021-04-30
+433,Senior Frontend Developer,Likvido,['Worldwide'],"['JavaScript', 'Senior', 'FrontEnd', 'FrontEnd', 'Accounting', 'Accountant', 'VueJS', 'JavaScript', 'Bank', 'CSS', 'UI', 'API', 'Go', 'Backend']",75.0,2021-04-30
+434,Principal Software Engineer,Storj,['Worldwide'],"['Golang', 'Engineer', 'DevOps', 'Security', 'Cloud', 'Travel', 'Go', 'Engineering']",260.0,2021-04-30
+435,Senior Full Stack Developer,Gfinity PLC,['Worldwide'],"['PHP', 'SEO', 'Senior', 'FullStack', 'Esports', 'JavaScript', 'MySQL', 'Lead', 'Full-Stack']",80.0,2021-04-30
+436,Frontend Developer,Performant Software,['Worldwide'],"['JavaScript', 'React', 'FrontEnd', 'FrontEnd', 'Health']",100.0,2021-04-30
+437,Senior Software Engineer,Mote,['ANYWHERE IN EUROPE'],"['JavaScript', 'React', 'Senior', 'Engineer', 'QualityAssurance', 'Edu', 'UX', 'API', 'Mobile', 'SaaS', 'Engineering']",90.0,2021-04-30
+438,Backend Developer,Toggl,['Worldwide'],"['Cloud', 'Ruby', 'Golang', 'Backend', 'FullStack', 'FrontEnd', 'Travel', 'Mobile', 'Operations', 'Fullstack']",105.0,2021-04-30
+439,Senior Java Developer,Toptal,['Worldwide'],"['Java', 'Senior', 'Backend', 'English', 'System', 'Full-Time']",160.0,2021-04-30
+440,Lead Developer,Organise Platform HQ,['Probably worldwide'],"['Golang', 'Executive', 'Lead']",122.5,2021-04-30
+441,Senior Go Developer,X Team,['Worldwide'],"['Senior', 'Golang', 'Go']",123.48917525773196,2021-04-30
+442,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+443,DevOps Software Engineer,Minespider,['Worldwide'],"['DevOps', 'Engineer', 'Backend', 'Cloud']",95.0,2021-04-30
+444,Creative Front End Developer,Series Eight,['Worldwide'],"['JavaScript', 'React', 'PHP', 'SaaS', 'Ecommerce', 'Shopify', 'Wordpress', 'FrontEnd', 'CSS', 'HTML', 'Git']",90.0,2021-04-30
+445,Lead developer,Resourcify GmbH,['Worldwide'],"['JavaScript', 'SaaS', 'Executive', 'Java', 'Lead']",120.0,2021-04-30
+446,Senior and Staff Backend Software Engineers,Nav Technologies,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Engineer']",122.5,2021-04-30
+447,Developer Evangelist,Storj,['Worldwide'],"['Cloud', 'Marketing', 'Golang', 'Security', 'Travel', 'Leader', 'Content']",225.0,2021-04-30
+448,Full Stack Developer,TheoermReach | UserWise,['United States'],"['JavaScript', 'Angular', 'Ruby', 'FullStack', 'Rails', 'Mobile', 'Content', 'SaaS', 'Engineering']",130.0,2021-04-30
+449,Principal Software Engineer,Splice,['Probably worldwide'],"['Golang', 'Engineer', 'FrontEnd', 'Backend']",120.0,2021-04-30
+450,Senior Ruby on Rails Developer,Bit Zesty,['Worldwide'],"['Ruby', 'Senior', 'FullStack', 'React', 'UX', 'NoSQL', 'Rails', 'Engineering', 'Full-Time']",100.0,2021-04-30
+451,Ruby developer,Maple,['North America'],"['Ruby', 'Engineer', 'React', 'Teach', 'HTML', 'Git', 'Rails', 'Backend', 'Executive']",70.0,2021-04-30
+452,Ruby on Rails Developer,Craftybase,['Worldwide'],"['Ruby', 'FullStack', 'Bookkeeping', 'JavaScript', 'UI', 'Git', 'MySQL', 'Rails', 'Operational', 'System', 'E-Commerce', 'Shopify', 'Full-Stack', 'Full-Time']",90.0,2021-04-30
+453,Senior WordPress Backend Developer,BuddyBoss,['Worldwide'],"['Senior', 'Backend', 'Wordpress', 'QualityAssurance', 'English', 'PHP', 'Git', 'Mobile', 'Lead', 'Sales']",120.0,2021-04-30
+454,Software Engineer,DNSimple,['Worldwide'],"['Ruby', 'Golang', 'Engineer', 'English', 'JavaScript', 'Git', 'Rails', 'Go', 'Engineering', 'Backend']",110.0,2021-04-30
+455,Frontend Developer,Fluorescent Design Inc,['Canada'],"['Ecommerce', 'Shopify', 'FrontEnd', 'FrontEnd', 'QualityAssurance', 'JavaScript', 'Git', 'Engineering', 'Full-Time']",105.0,2021-04-30
+456,️ Laravel and VueJS developer,EasyPractice,['Europe'],"['JavaScript', 'PHP', 'Laravel', 'Vue', 'VueJS', 'System']",60.0,2021-04-30
+457,Shopify Developer,First and Third,"['United States', 'Europe', 'Canada']","['Ecommerce', 'Shopify', 'Design', 'FrontEnd', 'JavaScript', 'CSS', 'UX', 'UI', 'Git', 'Ruby', 'API', 'Content']",105.0,2021-04-30
+458,Senior Front end Shopify developer,Team Extension,['Worldwide'],"['JavaScript', 'PHP', 'Senior', 'Ecommerce', 'Shopify', 'FrontEnd', 'DevOps', 'Marketing', 'Engineering', 'E-Commerce']",70.0,2021-04-30
+459,.NET Developer,Code Runners,['Worldwide'],"['JavaScript', 'React', 'Elasticsearch', 'Angular', 'English', 'Edu', 'Analytics', 'Health']",55.0,2021-04-30
+460,Software Engineer,Argyle,['Worldwide'],"['Python', 'Engineer', 'Docker', 'Engineering']",80.0,2021-04-30
+461,FullStack JavaScript Developer,CIGen,"['Europe', 'Russia', 'Latin America', 'Africa']","['JavaScript', 'React', 'Angular', 'Node', 'FullStack', 'QualityAssurance', 'DevOps', 'English', 'Financial', 'Security', 'UX', 'UI', 'NoSQL', 'Microsoft', 'Analytics', 'Fullstack', 'Full-Stack']",35.0,2021-04-30
+462,Fullstack Web Developer,Meowtel.com,"['North America', 'Latin America']","['JavaScript', 'PHP', 'FullStack', 'WebDeveloper', 'React', 'NodeJS', 'Mobile', 'Fullstack', 'Full-Time']",40.0,2021-04-30
+463,Senior Node.js Developer Star Citizen,Turbulent,['Worldwide'],"['JavaScript', 'Node', 'Senior', 'GameDeveloper', 'Video', 'CPlusPlus', 'Cloud', 'Git', 'Node', 'Reliability', 'Linux', 'Backend']",110.0,2021-04-30
+464,Ruby on Rails Developer,Nebulab,['Worldwide'],"['Ruby', 'JavaScript', 'Investment', 'Rails', 'Educational', 'Ecommerce']",105.0,2021-04-30
+465,Senior Software Engineer Consul,HashiCorp,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Security']",125.0,2021-04-30
+466,BE developer,Kyvio,['Worldwide'],"['PHP', 'API', 'Backend', 'GraphQL', 'English', 'Security', 'Laravel', 'Git', 'System', 'Go', 'Full-Time']",40.0,2021-04-30
+467,Senior Software Engineer,Sugar,"['United States', 'Canada']","['JavaScript', 'React', 'Python', 'Senior', 'Engineer', 'ReactNative', 'GraphQL', 'Lead', 'Health', 'Engineering']",190.0,2021-04-30
+468,Senior Backend Developer,Valocode,['Probably worldwide'],"['Senior', 'Golang', 'Backend']",125.0,2021-04-30
+469,Golang Developer,Kiuki,['Probably worldwide'],['Golang'],125.0,2021-04-30
+470,Developer Experience Engineer,Storyblok GmbH,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FullStack', 'Design', 'FrontEnd', 'Video', 'Security', 'Edu', 'Serverless', 'Scheme', 'UX', 'Content', 'Go']",75.0,2021-04-30
+471,Golang Developer,True Tickets,['Probably worldwide'],['Golang'],125.0,2021-04-30
+472,Software Engineer,Acronis,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+473,React Developer,RebelCode Ltd,['Worldwide'],"['JavaScript', 'React', 'Wordpress', 'English', 'PHP', 'Go', 'Backend', 'Full-Time']",50.0,2021-04-30
+474,Software Development Manager,Shopify,"['United States', 'Canada']","['JavaScript', 'React', 'CSS', 'HTML', 'Ruby', 'Mobile', 'Android', 'Backend', 'iOS', 'ReactNative', 'GraphQL', 'FrontEnd', 'Executive', 'UX', 'Rails', 'Lead', 'Senior', 'Sales', 'Reliability', 'Recruiting', 'Engineering', 'Shopify']",123.48917525773196,2021-04-30
+475,Staff Software Engineer Americas,Shopify,"['United States', 'Canada']","['JavaScript', 'React', 'CSS', 'HTML', 'Ruby', 'Mobile', 'Android', 'Engineer', 'Backend', 'iOS', 'ReactNative', 'GraphQL', 'FrontEnd', 'Cloud', 'Rails', 'SEO', 'Lead', 'Marketing', 'Recruiting', 'Engineering', 'Shopify']",123.48917525773196,2021-04-30
+476,Software EngineerMonetization,Splice,['Probably worldwide'],"['Golang', 'FrontEnd', 'Backend']",122.5,2021-04-30
+477,Senior Frontend Developer,The Giving Block,['Worldwide'],"['JavaScript', 'React', 'API', 'Senior', 'FrontEnd', 'FrontEnd', 'ReactJS', 'Crypto', 'Cryptocurrency']",110.0,2021-04-30
+478,Senior Java Developer,Sellics Marketplace Analytics GmbH,['Europe'],"['JavaScript', 'Java', 'Senior', 'SaaS', 'DevOps', 'Cloud', 'Git', 'Stats', 'Engineering', 'Educational']",130.0,2021-04-30
+479,Golang Developer,Mindera,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+480,Ruby on Rails Developer,Nedap,['Worldwide'],"['Ruby', 'Redis', 'Financial', 'Rails', 'Go', 'Medical']",90.0,2021-04-30
+481,Full Stack Developer,Paperpile,['Worldwide'],"['JavaScript', 'React', 'Node', 'Engineer', 'FullStack', 'Students', 'Microsoft', 'Android']",85.0,2021-04-30
+482,Senior Web Developer,Lume Deodorant,['United States'],"['JavaScript', 'React', 'Senior', 'Ecommerce', 'Shopify', 'WebDeveloper', 'API', 'Lead', 'Medical', 'E-Commerce']",170.0,2021-04-30
+483,Full Stack Software Engineer,Codelitt,"['North America', 'Latin America']","['JavaScript', 'React', 'Elasticsearch', 'C', 'CPlusPlus', 'Engineer', 'FullStack', 'GraphQL', 'Senior']",105.0,2021-04-30
+484,Senior Software Developer,Spare Labs Inc.,['Canada'],"['JavaScript', 'React', 'Mobile', 'Senior', 'SaaS', 'ReactNative', 'WebDeveloper', 'Financial', 'Edu', 'API', 'Leader', 'Lead', 'Junior', 'Android', 'Engineer', 'Engineering', 'Full-Stack']",150.0,2021-04-30
+485,Software Engineer Backend,Triple9,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+486,React Developer,Mixie Digital,['Europe'],"['JavaScript', 'React', 'Engineer', 'FullStack', 'ReactNative', 'English', 'Investment']",60.0,2021-04-30
+487,Azure Developer,Toptal,"['Worldwide', 'United States']","['DevOps', 'English']",200.0,2021-04-30
+488,Golang Developer,Experient Group,['Probably worldwide'],['Golang'],125.0,2021-04-30
+489,Smart Contract Developer,Nayms,['Worldwide'],"['Crypto', 'Web3', 'Blockchain', 'SmartContract', 'Ethereum', 'Security', 'UI', 'Engineering']",180.0,2021-04-30
+490,Senior WordPress Backend Developer,BuddyBoss,['Worldwide'],"['Senior', 'Backend', 'Wordpress', 'QualityAssurance', 'ReactJS', 'English', 'PHP', 'Git', 'Mobile', 'Lead', 'Sales', 'Nginx']",80.0,2021-04-30
+491,Senior Node.js Developer,Flyp,['Europe'],"['JavaScript', 'Node', 'API', 'Senior', 'Backend', 'Node', 'Mobile', 'Engineer', 'Full-Time']",85.0,2021-04-30
+492,Senior Golang Developer,SheetRocks,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+493,Senior FullStack Software Engineer,Clutch Prep,['Worldwide'],"['JavaScript', 'React', 'Ruby', 'Senior', 'Engineer', 'FullStack', 'QualityAssurance', 'ReactJS', 'Students', 'Edu', 'HTML', 'Rails', 'Mobile', 'Content', 'Engineering', 'Fullstack', 'Full-Stack']",70.0,2021-04-30
+494,Senior Frontend Developer,Getsafe Gmbh,"['Germany', 'Europe', 'United Kingdom']","['JavaScript', 'React', 'Senior', 'ReactNative', 'FrontEnd', 'FrontEnd', 'UX', 'Mobile', 'Leader', 'Junior', 'System', 'Engineering']",105.0,2021-04-30
+495,Frontend Developer,EasyPractice,['Europe'],"['FrontEnd', 'FrontEnd', 'Laravel', 'Apache']",60.0,2021-04-30
+496,Software Engineer Data Infra,Doximity,['United States'],"['Python', 'Medical', 'Engineer', 'Edu', 'Operations', 'Operational', 'System', 'Engineering', 'Linux']",200.0,2021-04-30
+497,Software Engineer FullStack,Doximity,['United States'],"['Ruby', 'Medical', 'Engineer', 'FullStack', 'JavaScript', 'Rails', 'Operations', 'System', 'Engineering', 'Educational', 'Fullstack']",180.0,2021-04-30
+498,BackEnd Web Developer,Kettle,['Worldwide'],"['PHP', 'Laravel', 'Python', 'Backend', 'WebDeveloper', 'JavaScript', 'Linux']",160.0,2021-04-30
+499,Volunteer Developer Who Can Help Creating Maps for Homeless People Around the World,FocalLocal - The Public Happiness Movement,['Probably worldwide'],"['JavaScript', 'Meteor']",125.0,2021-04-30
+500,Software Developer (Remote),Meteor Software,['Worldwide'],"['JavaScript', 'Meteor']",125.0,2021-04-30
+501,Senior Software Engineer,Superside,['Worldwide'],"['Senior', 'Engineer', 'QualityAssurance', 'DevOps', 'Video', 'Lambda', 'UX', 'Lead', 'Operations', 'System', 'Engineering', 'Full-Stack']",110.0,2021-04-30
+502,Senior Shopify Developer,Storetasker,['Worldwide'],"['JavaScript', 'Senior', 'Ecommerce', 'Shopify', 'FullStack', 'Design', 'FrontEnd', 'Go', 'E-Commerce', 'Full-Time']",170.0,2021-04-30
+503,Senior Front End Developer,Backtracks.fm,['Worldwide'],"['JavaScript', 'React', 'Node', 'Senior', 'Design', 'ReactNative', 'FrontEnd', 'FrontEnd', 'UI', 'Node', 'Content', 'Engineering']",195.0,2021-04-30
+504,Full Stack Developer,Uprise,['Worldwide'],"['JavaScript', 'React', 'Node', 'Backend', 'FullStack', 'GraphQL', 'FrontEnd', 'FrontEnd', 'React', 'Node', 'API', 'Mobile', 'Android', 'System', 'Health']",30.0,2021-04-30
+505,Ruby on Rails Developer,Narvar,['North America'],"['JavaScript', 'Ruby', 'Ecommerce', 'React', 'Rails', 'Lead', 'Operations', 'E-Commerce']",123.48917525773196,2021-04-30
+506,Senior Software Engineer Americas,Shopify,"['United States', 'Canada']","['JavaScript', 'React', 'Ruby', 'Mobile', 'Senior', 'Engineer', 'Backend', 'ReactNative', 'FrontEnd', 'Rails', 'Android', 'Engineering', 'Shopify']",123.48917525773196,2021-04-30
+507,Senior Staff Software Engineer,Shopify,"['United States', 'Canada']","['JavaScript', 'React', 'CSS', 'HTML', 'Ruby', 'Mobile', 'Senior', 'Android', 'Engineer', 'Backend', 'iOS', 'ReactNative', 'GraphQL', 'FrontEnd', 'Cloud', 'UX', 'Rails', 'SEO', 'Lead', 'Marketing', 'Recruiting', 'Engineering', 'Shopify']",123.48917525773196,2021-04-30
+508,Backend Developer,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Backend', 'Recruiter']",120.0,2021-04-30
+509,Senior Software Engineer,Navigating Cancer,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Educational']",125.0,2021-04-30
+510,Staff Software Developer Data Platform,Shopify,"['United States', 'Canada']","['JavaScript', 'React', 'Cloud', 'Ruby', 'Engineer', 'Apache', 'Security', 'Mathematics', 'Leader', 'Analytics', 'Sales', 'Reliability', 'Engineering', 'Shopify', 'Full-Stack']",123.48917525773196,2021-04-30
+511,Frontend Developer,Fluorescent Design Inc,['Canada'],"['Ecommerce', 'Shopify', 'FrontEnd', 'FrontEnd', 'QualityAssurance', 'JavaScript', 'Git', 'Engineering', 'Full-Time']",90.0,2021-04-30
+512,Senior Software Engineer 100,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2021-04-30
+513,Go Software Developer,Mindera,['Probably worldwide'],"['Golang', 'Go', 'Engineer', 'Backend']",120.0,2021-04-30
+514,Software Engineer,Argyle,"['Europe', 'Latin America', 'Singapore', 'Taiwan', 'Thailand', 'Philippines']","['Python', 'Engineer', 'Docker', 'WebDeveloper', 'Engineering']",80.0,2021-04-30
+515,Senior Software Engineer,Sublime Security,['Probably worldwide'],"['InfoSec', 'Senior', 'Golang', 'Engineer']",122.5,2021-04-30
+516,Software Engineer,Sublime Security,['Probably worldwide'],"['InfoSec', 'Golang', 'Engineer']",120.0,2021-04-30
+517,Senior Software Developer,Dayforward,['Probably worldwide'],"['Senior', 'Golang', 'Financial', 'Security']",125.0,2021-04-30
+518,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2021-04-30
+519,Senior Software Engineer,NTWRK,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+520,Senior Golang Developer,CodePen,['Probably worldwide'],"['Senior', 'Golang', 'FrontEnd']",125.0,2021-04-30
+521,Software Engineer,BlueLabs,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+522,Senior Frontend Developer,More Digital Studios,['Europe'],"['JavaScript', 'React', 'Senior', 'FrontEnd', 'FrontEnd', 'Jira', 'Mobile', 'Full-Time']",85.0,2021-04-30
+523,Staff Javascript Software Engineer,Nav,['United States'],"['JavaScript', 'Engineer', 'Teaching', 'JavaScript', 'CSS', 'Leader', 'Health', 'Engineering']",180.0,2021-04-30
+524,Junior Mid Level Web Developer,More Digital Studios,['Europe'],"['JavaScript', 'PHP', 'Junior', 'FullStack', 'WebDeveloper', 'Amazon', 'HTML', 'Mobile', 'Fullstack', 'Full-Time']",55.0,2021-04-30
+525,Senior developer,Yoast,['United Kingdom'],"['CSS', 'PHP', 'HTML', 'Git', 'Senior', 'Wordpress', 'JavaScript', 'Edu', 'SEO']",70.0,2021-04-30
+526,Frontend Developer,Amondo,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FrontEnd', 'FrontEnd', 'DevOps', 'Git', 'Content']",60.0,2021-04-30
+527,Backend Developer,Toggl Hire,['Probably worldwide'],"['Golang', 'Backend', 'PostgreSQL']",122.5,2021-04-30
+528,Front End Developer,Kosmotime,['Worldwide'],"['JavaScript', 'React', 'FrontEnd', 'React', 'Engineer', 'Engineering']",85.0,2021-04-30
+529,Senior Go Backend Developer,refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2021-04-30
+530,Senior Fullstack Developer React Ruby,GOhiring,['Europe'],"['JavaScript', 'React', 'Ruby', 'Senior', 'FullStack', 'Testing', 'FrontEnd', 'JavaScript', 'API', 'HR', 'Engineering', 'Fullstack']",85.0,2021-04-30
+531,Senior Ruby Developer,Context Travel,['United States'],"['Ruby', 'Executive', 'Senior', 'Engineer', 'Ecommerce', 'Shopify', 'TechLead', 'FrontEnd', 'DevOps', 'JavaScript', 'Travel', 'Health', 'Full-Time']",225.0,2021-04-30
+532,Senior Go Blockchain Developer,Spacemesh,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2021-04-30
+533,Lead Salesforce Developer,Georgia Institute of Technology,['United States'],"['DevOps', 'JavaScript', 'Java', 'Salesforce', 'Python', 'Executive', 'Edu', 'CSharp', 'Lead', 'Recruitment', 'Educational', 'Full-Stack']",138.0,2021-04-30
+534,Go Software Engineer Fully,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Go', 'Recruiter']",120.0,2021-04-30
+535,Software Engineer,Zendesk,['Worldwide'],"['Golang', 'Engineer']",120.0,2021-04-30
+536,Senior Software Developer,Aula,['Worldwide'],"['JavaScript', 'React', 'Node', 'Senior', 'Students', 'Edu', 'Cloud', 'Mongo', 'Content', 'SaaS', 'Reliability', 'System', 'Engineering', 'Fullstack']",185.0,2021-04-30
+537,Senior Golang Software Developer,Invopop,['Probably worldwide'],"['Senior', 'Golang', 'Finance']",125.0,2021-04-30
+538,Golang Backend Developer,Skycoin,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+539,Senior Golang Developer,Nearsure,['Probably worldwide'],"['Senior', 'Golang', 'API']",125.0,2021-04-30
+540,Software Engineer Backend,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+541,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+542,Software Engineer,Zendesk,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+543,Developer Advocate,Traefik Labs,['Probably worldwide'],['Golang'],125.0,2021-04-30
+544,Senior Software Engineer,ECAD Labs,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+545,Software Engineer,Zendesk,['Worldwide'],"['Golang', 'Engineer']",120.0,2021-04-30
+546,Senior Software Developer,Aula,['Worldwide'],"['JavaScript', 'React', 'Node', 'Senior', 'Students', 'Edu', 'Cloud', 'Mongo', 'Content', 'SaaS', 'Reliability', 'System', 'Engineering', 'Fullstack']",185.0,2021-04-30
+547,Senior Golang Software Developer,Invopop,['Probably worldwide'],"['Senior', 'Golang', 'Finance']",125.0,2021-04-30
+548,Golang Backend Developer,Skycoin,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+549,Senior Golang Developer,Nearsure,['Probably worldwide'],"['Senior', 'Golang', 'API']",125.0,2021-04-30
+550,Software Engineer Backend,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+551,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+552,Software Engineer,Zendesk,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+553,Developer Advocate,Traefik Labs,['Probably worldwide'],['Golang'],125.0,2021-04-30
+554,Senior Software Engineer,ECAD Labs,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+555,Staff Software Developer,Shopify,"['Worldwide', 'North America', 'Latin America']","['Mobile', 'Backend', 'FrontEnd', 'Cloud', 'UX', 'Ruby', 'Rails', 'Lead', 'Android', 'Recruiting', 'Engineering', 'Shopify']",123.48917525773196,2021-04-30
+556,Backend Developer,Highlight,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+557,Software Engineer,Argyle,['Worldwide'],"['Python', 'Engineer', 'Backend', 'WebDeveloper', 'Engineering']",123.48917525773196,2021-04-30
+558,Senior Golang Software Developer,Invopop,['Probably worldwide'],"['Senior', 'Golang', 'Finance']",125.0,2021-04-30
+559,Golang Backend Developer,Skycoin,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+560,Senior Golang Developer,Nearsure,['Probably worldwide'],"['Senior', 'Golang', 'API']",125.0,2021-04-30
+561,Software Engineer Backend,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+562,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+563,Software Engineer,Zendesk,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+564,Developer Advocate,Traefik Labs,['Probably worldwide'],['Golang'],125.0,2021-04-30
+565,Senior Software Engineer,ECAD Labs,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+566,Staff Software Developer,Shopify,"['Worldwide', 'North America', 'Latin America']","['Mobile', 'Backend', 'FrontEnd', 'Cloud', 'UX', 'Ruby', 'Rails', 'Lead', 'Android', 'Recruiting', 'Engineering', 'Shopify']",123.48917525773196,2021-04-30
+567,Backend Developer,Highlight,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+568,Software Engineer,Argyle,['Worldwide'],"['Python', 'Engineer', 'Backend', 'WebDeveloper', 'Engineering']",123.48917525773196,2021-04-30
+569,Senior Go Developer,Carted,['Worldwide'],"['Senior', 'Golang', 'Go']",250.0,2021-04-30
+570,Full Stack Developer Advanced React Developer Go,Upwire,['Probably worldwide'],"['JavaScript', 'React', 'Golang', 'FullStack', 'Go', 'Full-Stack']",120.0,2021-04-30
+571,Frontend Software Engineer,Metabase,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FrontEnd', 'FrontEnd', 'CSS', 'Analytics', 'Sales', 'Engineering', 'Backend']",123.48917525773196,2021-04-30
+572,Sr Software Engineer Data Infra,Doximity,['United States'],"['Git', 'Python', 'Medical', 'Engineer', 'Linux', 'Docker', 'Edu', 'Operations', 'Operational', 'System', 'Engineering']",123.48917525773196,2021-04-30
+573,Software Engineer Andriod,Doximity,['United States'],"['Android', 'Medical', 'Engineer', 'Teach', 'Mobile', 'Excel', 'System', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+574,Staff Software Developer,Shopify,"['Worldwide', 'North America', 'Latin America']","['Mobile', 'Backend', 'FrontEnd', 'Cloud', 'UX', 'Ruby', 'Rails', 'Lead', 'Android', 'Recruiting', 'Engineering', 'Shopify']",123.48917525773196,2021-04-30
+575,Backend Developer,Highlight,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+576,Software Engineer,Argyle,['Worldwide'],"['Python', 'Engineer', 'Backend', 'WebDeveloper', 'Engineering']",123.48917525773196,2021-04-30
+577,Senior Go Developer,Carted,['Worldwide'],"['Senior', 'Golang', 'Go']",250.0,2021-04-30
+578,Full Stack Developer Advanced React Developer Go,Upwire,['Probably worldwide'],"['JavaScript', 'React', 'Golang', 'FullStack', 'Go', 'Full-Stack']",120.0,2021-04-30
+579,Frontend Software Engineer,Metabase,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FrontEnd', 'FrontEnd', 'CSS', 'Analytics', 'Sales', 'Engineering', 'Backend']",123.48917525773196,2021-04-30
+580,Sr Software Engineer Data Infra,Doximity,['United States'],"['Git', 'Python', 'Medical', 'Engineer', 'Linux', 'Docker', 'Edu', 'Operations', 'Operational', 'System', 'Engineering']",123.48917525773196,2021-04-30
+581,Software Engineer Andriod,Doximity,['United States'],"['Android', 'Medical', 'Engineer', 'Teach', 'Mobile', 'Excel', 'System', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+582,Senior Software Engineer,GreyNoise Intelligence,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+583,Golang Developer,Proxify,['Europe'],"['Golang', 'English']",74.5,2021-04-30
+584,Software Engineer Full Stack,Mainvest,['North America'],"['Python', 'Engineer', 'FullStack', 'Investment', 'Health']",137.5,2021-04-30
+585,Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+586,Go Software Engineer Fully,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Go', 'Recruiter']",120.0,2021-04-30
+587,Software Engineer,Argyle,['Worldwide'],"['Python', 'Engineer', 'Backend', 'WebDeveloper', 'Engineering']",123.48917525773196,2021-04-30
+588,Senior Go Developer,Carted,['Worldwide'],"['Senior', 'Golang', 'Go']",250.0,2021-04-30
+589,Full Stack Developer Advanced React Developer Go,Upwire,['Probably worldwide'],"['JavaScript', 'React', 'Golang', 'FullStack', 'Go', 'Full-Stack']",120.0,2021-04-30
+590,Frontend Software Engineer,Metabase,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FrontEnd', 'FrontEnd', 'CSS', 'Analytics', 'Sales', 'Engineering', 'Backend']",123.48917525773196,2021-04-30
+591,Sr Software Engineer Data Infra,Doximity,['United States'],"['Git', 'Python', 'Medical', 'Engineer', 'Linux', 'Docker', 'Edu', 'Operations', 'Operational', 'System', 'Engineering']",123.48917525773196,2021-04-30
+592,Software Engineer Andriod,Doximity,['United States'],"['Android', 'Medical', 'Engineer', 'Teach', 'Mobile', 'Excel', 'System', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+593,Senior Software Engineer,GreyNoise Intelligence,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+594,Golang Developer,Proxify,['Europe'],"['Golang', 'English']",74.5,2021-04-30
+595,Software Engineer Full Stack,Mainvest,['North America'],"['Python', 'Engineer', 'FullStack', 'Investment', 'Health']",137.5,2021-04-30
+596,Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+597,Go Software Engineer Fully,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Go', 'Recruiter']",120.0,2021-04-30
+598,Go Developer for Slack Backed Startup Canadian Based Devs Preferred,Technical Integrity,['Probably worldwide'],"['Golang', 'DevOps', 'Senior', 'Go', 'Engineer']",122.5,2021-04-30
+599,Go Software Engineer Fully,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Go', 'Recruiter']",120.0,2021-04-30
+600,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go']",125.0,2021-04-30
+601,Full Stack Software Engineer (United States),Perusall,['United States'],"['JavaScript', 'Meteor', 'Engineer', 'FullStack', 'Amazon', 'Marketing', 'Sales']",123.0,2021-04-30
+602,Go Engineer k6 Open Source developer,k6.io,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+603,Frontend Software Engineer,Metabase,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FrontEnd', 'FrontEnd', 'CSS', 'Analytics', 'Sales', 'Engineering', 'Backend']",123.48917525773196,2021-04-30
+604,Sr Software Engineer Data Infra,Doximity,['United States'],"['Git', 'Python', 'Medical', 'Engineer', 'Linux', 'Docker', 'Edu', 'Operations', 'Operational', 'System', 'Engineering']",123.48917525773196,2021-04-30
+605,Software Engineer Andriod,Doximity,['United States'],"['Android', 'Medical', 'Engineer', 'Teach', 'Mobile', 'Excel', 'System', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+606,Senior Software Engineer,GreyNoise Intelligence,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+607,Golang Developer,Proxify,['Europe'],"['Golang', 'English']",74.5,2021-04-30
+608,Software Engineer Full Stack,Mainvest,['North America'],"['Python', 'Engineer', 'FullStack', 'Investment', 'Health']",137.5,2021-04-30
+609,Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+610,Go Software Engineer Fully,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Go', 'Recruiter']",120.0,2021-04-30
+611,Go Developer for Slack Backed Startup Canadian Based Devs Preferred,Technical Integrity,['Probably worldwide'],"['Golang', 'DevOps', 'Senior', 'Go', 'Engineer']",122.5,2021-04-30
+612,Go Software Engineer Fully,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Go', 'Recruiter']",120.0,2021-04-30
+613,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go']",125.0,2021-04-30
+614,Full Stack Software Engineer (United States),Perusall,['United States'],"['JavaScript', 'Meteor', 'Engineer', 'FullStack', 'Amazon', 'Marketing', 'Sales']",123.0,2021-04-30
+615,Go Engineer k6 Open Source developer,k6.io,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+616,Laravel Developer Linux SQL,VanillaSoft,['Worldwide'],"['PHP', 'Laravel', 'Linux', 'WebDeveloper', 'English', 'Cloud', 'LAMP', 'Senior', 'Sales', 'Apache', 'Backend']",123.48917525773196,2021-04-30
+617,React Rails Software Engineer,LeadSimple,['Worldwide'],"['JavaScript', 'React', 'Ruby', 'Engineer', 'GraphQL', 'Bank', 'Rails', 'API', 'Senior', 'Engineering']",100.0,2021-04-30
+618,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2021-04-30
+619,Senior Software Engineer,Metrika,"['Europe', 'United States']","['Senior', 'Golang', 'Engineer', 'DevOps', 'Operational', 'System', 'Engineering', 'Linux', 'Backend']",110.0,2021-04-30
+620,Senior Go Developer,Swarm,['Probably worldwide'],"['Senior', 'Golang', 'System', 'Go']",125.0,2021-04-30
+621,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+622,Senior Software Engineer AdTech,Apartment Therapy Media,['Worldwide'],"['Senior', 'Engineer', 'Video', 'Git', 'Sales', 'Go', 'Engineering']",123.48917525773196,2021-04-30
+623,Go Developer for Slack Backed Startup Canadian Based Devs Preferred,Technical Integrity,['Probably worldwide'],"['Golang', 'DevOps', 'Senior', 'Go', 'Engineer']",122.5,2021-04-30
+624,Go Software Engineer Fully,Vistas Recruitment,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Go', 'Recruiter']",120.0,2021-04-30
+625,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go']",125.0,2021-04-30
+626,Full Stack Software Engineer (United States),Perusall,['United States'],"['JavaScript', 'Meteor', 'Engineer', 'FullStack', 'Amazon', 'Marketing', 'Sales']",123.0,2021-04-30
+627,Go Engineer k6 Open Source developer,k6.io,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+628,Laravel Developer Linux SQL,VanillaSoft,['Worldwide'],"['PHP', 'Laravel', 'Linux', 'WebDeveloper', 'English', 'Cloud', 'LAMP', 'Senior', 'Sales', 'Apache', 'Backend']",123.48917525773196,2021-04-30
+629,React Rails Software Engineer,LeadSimple,['Worldwide'],"['JavaScript', 'React', 'Ruby', 'Engineer', 'GraphQL', 'Bank', 'Rails', 'API', 'Senior', 'Engineering']",100.0,2021-04-30
+630,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2021-04-30
+631,Senior Software Engineer,Metrika,"['Europe', 'United States']","['Senior', 'Golang', 'Engineer', 'DevOps', 'Operational', 'System', 'Engineering', 'Linux', 'Backend']",110.0,2021-04-30
+632,Senior Go Developer,Swarm,['Probably worldwide'],"['Senior', 'Golang', 'System', 'Go']",125.0,2021-04-30
+633,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+634,Senior Software Engineer AdTech,Apartment Therapy Media,['Worldwide'],"['Senior', 'Engineer', 'Video', 'Git', 'Sales', 'Go', 'Engineering']",123.48917525773196,2021-04-30
+635,Senior Backend Software Engineers,Argyle,"['Europe', 'Latin America', 'New Zealand', 'Australia', 'United States']","['Python', 'API', 'Senior', 'Golang', 'Backend', 'Rabbitmq', 'Go', 'Engineer', 'Engineering']",123.48917525773196,2021-04-30
+636,Senior iOS Developer,Doximity,['Worldwide'],"['Mobile', 'Senior', 'Medical', 'iOS', 'Swift', 'JavaScript', 'Xcode', 'Android', 'System', 'Engineer', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+637,Software Engineer Android,Doximity,['United States'],"['Mobile', 'Android', 'Medical', 'Engineer', 'Teach', 'JavaScript', 'Excel', 'System', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+638,Software Engineer Full Stack,Doximity,['United States'],"['JavaScript', 'Ruby', 'Medical', 'Engineer', 'FullStack', 'Rails', 'Operations', 'System', 'Recruiting', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+639,Senior Software Engineer,Muck Rack,"['United States', 'Canada', 'Poland', 'Europe', 'Bulgaria']","['JavaScript', 'Git', 'Python', 'SEO', 'Senior', 'SaaS', 'Engineer', 'Design', 'Engineering', 'Linux']",190.0,2021-04-30
+640,Senior Rails Developer,Afrikrea,['Worldwide'],"['Ruby', 'Senior', 'FullStack', 'FullTime', 'FrontEnd', 'DevOps', 'English', 'JavaScript', 'Video', 'Amazon', 'Elasticsearch', 'Rails', 'Mobile', 'Android', 'Health', 'Backend']",78.0,2021-04-30
+641,Go Software Engineer,ScyllaDB,['Probably worldwide'],"['Golang', 'Engineer', 'Security', 'Cloud', 'NoSQL', 'Go']",125.0,2021-04-30
+642,Frontend Software Engineer,Replica,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FrontEnd', 'FrontEnd', 'Health', 'Engineering']",123.48917525773196,2021-04-30
+643,Senior Software Engineer,Muck Rack,"['United States', 'Canada', 'Poland', 'Europe', 'Bulgaria']","['Python', 'Senior', 'Engineer', 'FrontEnd', 'Elasticsearch', 'MySQL', 'Lead', 'Content', 'Engineering']",123.48917525773196,2021-04-30
+644,React Native developer,Proxify,['Europe'],"['JavaScript', 'React', 'Node', 'ReactNative', 'FrontEnd', 'English', 'Video']",75.0,2021-04-30
+645,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2021-04-30
+646,Senior Software Engineer,Metrika,"['Europe', 'United States']","['Senior', 'Golang', 'Engineer', 'DevOps', 'Operational', 'System', 'Engineering', 'Linux', 'Backend']",110.0,2021-04-30
+647,Senior Go Developer,Swarm,['Probably worldwide'],"['Senior', 'Golang', 'System', 'Go']",125.0,2021-04-30
+648,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+649,Senior Software Engineer AdTech,Apartment Therapy Media,['Worldwide'],"['Senior', 'Engineer', 'Video', 'Git', 'Sales', 'Go', 'Engineering']",123.48917525773196,2021-04-30
+650,Senior Backend Software Engineers,Argyle,"['Europe', 'Latin America', 'New Zealand', 'Australia', 'United States']","['Python', 'API', 'Senior', 'Golang', 'Backend', 'Rabbitmq', 'Go', 'Engineer', 'Engineering']",123.48917525773196,2021-04-30
+651,Senior iOS Developer,Doximity,['Worldwide'],"['Mobile', 'Senior', 'Medical', 'iOS', 'Swift', 'JavaScript', 'Xcode', 'Android', 'System', 'Engineer', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+652,Software Engineer Android,Doximity,['United States'],"['Mobile', 'Android', 'Medical', 'Engineer', 'Teach', 'JavaScript', 'Excel', 'System', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+653,Software Engineer Full Stack,Doximity,['United States'],"['JavaScript', 'Ruby', 'Medical', 'Engineer', 'FullStack', 'Rails', 'Operations', 'System', 'Recruiting', 'Engineering', 'Educational']",123.48917525773196,2021-04-30
+654,Senior Software Engineer,Muck Rack,"['United States', 'Canada', 'Poland', 'Europe', 'Bulgaria']","['JavaScript', 'Git', 'Python', 'SEO', 'Senior', 'SaaS', 'Engineer', 'Design', 'Engineering', 'Linux']",190.0,2021-04-30
+655,Senior Rails Developer,Afrikrea,['Worldwide'],"['Ruby', 'Senior', 'FullStack', 'FullTime', 'FrontEnd', 'DevOps', 'English', 'JavaScript', 'Video', 'Amazon', 'Elasticsearch', 'Rails', 'Mobile', 'Android', 'Health', 'Backend']",78.0,2021-04-30
+656,Go Software Engineer,ScyllaDB,['Probably worldwide'],"['Golang', 'Engineer', 'Security', 'Cloud', 'NoSQL', 'Go']",125.0,2021-04-30
+657,Frontend Software Engineer,Replica,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'FrontEnd', 'FrontEnd', 'Health', 'Engineering']",123.48917525773196,2021-04-30
+658,Senior Software Engineer,Muck Rack,"['United States', 'Canada', 'Poland', 'Europe', 'Bulgaria']","['Python', 'Senior', 'Engineer', 'FrontEnd', 'Elasticsearch', 'MySQL', 'Lead', 'Content', 'Engineering']",123.48917525773196,2021-04-30
+659,React Native developer,Proxify,['Europe'],"['JavaScript', 'React', 'Node', 'ReactNative', 'FrontEnd', 'English', 'Video']",75.0,2021-04-30
+660,Backend Developer,1Password,['Worldwide'],"['Golang', 'Backend', 'Admin']",120.0,2021-04-30
+661,Software Engineer Backend,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+662,Senior Go Backend Developer,refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2021-04-30
+663,Lead Backend Developer Go,refurbed,['Probably worldwide'],"['Golang', 'Backend', 'Executive', 'Lead', 'Go']",120.0,2021-04-30
+664,React Native Lead Developer,Bravely - Mental Health,['Worldwide'],"['JavaScript', 'React', 'ReactNative', 'Executive', 'Video', 'Mobile', 'Lead', 'Medical', 'Health']",55.0,2021-04-30
+665,Senior Golang Developer,nesto,['Probably worldwide'],"['Senior', 'Golang']",125.0,2021-04-30
+666,Full Stack Developer,Shipa Freight,['Worldwide'],"['JavaScript', 'Node', 'FullStack', 'GraphQL', 'Node', 'Mobile', 'Content', 'Senior', 'Junior', 'Operations', 'System', 'E-Commerce']",82.5,2021-04-30
+667,Backend Developer,1Password,['Probably worldwide'],"['Golang', 'Backend', 'Admin']",120.0,2021-04-30
+668,React Native Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'Mobile', 'Android', 'iOS', 'ReactNative', 'Git', 'Senior', 'Backend']",90.0,2021-04-30
+669,Senior Software Engineer 100,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Python', 'Go']",125.0,2021-04-30
+670,Principal Software Developer,Spacemesh,['Probably worldwide'],['Golang'],125.0,2021-04-30
+671,Backend Software Engineer,Trendhim,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'Senior', 'E-Commerce']",122.5,2021-04-30
+672,Software Engineer Salesforce Go,GRAX,['Probably worldwide'],"['Salesforce', 'Golang', 'Engineer', 'SaaS', 'Go']",127.5,2021-04-30
+673,Backend Developer,1Password,['Worldwide'],"['Golang', 'Backend', 'Admin']",120.0,2021-04-30
+674,Software Engineer Backend,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2021-04-30
+675,Senior Go Backend Developer,refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2021-04-30
+676,Lead Backend Developer Go,refurbed,['Probably worldwide'],"['Golang', 'Backend', 'Executive', 'Lead', 'Go']",120.0,2021-04-30
+677,React Native Lead Developer,Bravely - Mental Health,['Worldwide'],"['JavaScript', 'React', 'ReactNative', 'Executive', 'Video', 'Mobile', 'Lead', 'Medical', 'Health']",55.0,2021-04-30
+678,Senior Golang Developer,nesto,['Probably worldwide'],"['Senior', 'Golang']",125.0,2021-04-30
+679,Full Stack Developer,Shipa Freight,['Worldwide'],"['JavaScript', 'Node', 'FullStack', 'GraphQL', 'Node', 'Mobile', 'Content', 'Senior', 'Junior', 'Operations', 'System', 'E-Commerce']",82.5,2021-04-30
+680,Backend Developer,1Password,['Probably worldwide'],"['Golang', 'Backend', 'Admin']",120.0,2021-04-30
+681,React Native Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'Mobile', 'Android', 'iOS', 'ReactNative', 'Git', 'Senior', 'Backend']",90.0,2021-04-30
+682,Senior Software Engineer 100,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Python', 'Go']",125.0,2021-04-30
+683,Principal Software Developer,Spacemesh,['Probably worldwide'],['Golang'],125.0,2021-04-30
+684,Backend Software Engineer,Trendhim,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'Senior', 'E-Commerce']",122.5,2021-04-30
+685,Software Engineer Salesforce Go,GRAX,['Probably worldwide'],"['Salesforce', 'Golang', 'Engineer', 'SaaS', 'Go']",127.5,2021-04-30
+686,Backend Software Engineer,Trendhim,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'Senior', 'E-Commerce']",122.5,2021-04-30
+687,Software Engineer Backend,GRAX,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'SaaS']",123.0,2021-04-30
+688,Backend Go Developer,Vistas recruitment,['Probably worldwide'],"['Golang', 'Backend', 'Go', 'Recruiter']",120.0,2021-04-30
+689,Backend Go Developer,Vistas recruitment,['Probably worldwide'],"['Golang', 'Backend', 'Go', 'Recruiter']",120.0,2021-04-30
+690,Mid Senior Full Stack Developer,Network Gaming,['Probably worldwide'],"['Senior', 'Golang', 'FullStack', 'GameDeveloper']",122.5,2021-04-30
+691,Software Engineer Mid Level,Expel,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+692,Principal Software Developer,Spacemesh,['Probably worldwide'],['Golang'],125.0,2021-04-30
+693,Software Development Engineer,TUNE,['Probably worldwide'],"['Golang', 'Engineer', 'Marketing', 'Engineering']",120.0,2021-04-30
+694,Software Engineer Go,Moov Financial,['Probably worldwide'],"['Golang', 'Engineer', 'Finance', 'Banking', 'Go']",120.0,2021-04-30
+695,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+696,Backend Developer,gridX GmbH,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+697,Mobile App Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'Mobile', 'ReactNative', 'Wordpress', 'Git', 'Senior', 'Android', 'Backend']",50.0,2021-04-30
+698,Backend Go Developer,Vistas recruitment,['Probably worldwide'],"['Golang', 'Backend', 'Go', 'Recruiter']",120.0,2021-04-30
+699,Mid Senior Full Stack Developer,Network Gaming,['Probably worldwide'],"['Senior', 'Golang', 'FullStack', 'GameDeveloper']",122.5,2021-04-30
+700,Software Engineer Mid Level,Expel,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2021-04-30
+701,Principal Software Developer,Spacemesh,['Probably worldwide'],['Golang'],125.0,2021-04-30
+702,Software Development Engineer,TUNE,['Probably worldwide'],"['Golang', 'Engineer', 'Marketing', 'Engineering']",120.0,2021-04-30
+703,Software Engineer Go,Moov Financial,['Probably worldwide'],"['Golang', 'Engineer', 'Finance', 'Banking', 'Go']",120.0,2021-04-30
+704,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+705,Backend Developer,gridX GmbH,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+706,Mobile App Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'Mobile', 'ReactNative', 'Wordpress', 'Git', 'Senior', 'Android', 'Backend']",50.0,2021-04-30
+707,Blockchain Core Developer,Spacemesh,['Probably worldwide'],"['Golang', 'Senior', 'Go']",125.0,2021-04-30
+708,Software Engineer cert manager,Jetstack,['Probably worldwide'],"['Golang', 'Engineer', 'Executive']",120.0,2021-04-30
+709,Senior Software Engineer Frontend,Athenian,['Worldwide'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FrontEnd', 'FrontEnd', 'UX', 'UI', 'Git', 'API', 'Lead', 'Analytics', 'SaaS', 'System', 'Engineering', 'Full-Time']",94.0,2021-04-30
+710,Senior Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'DevOps', 'Salesforce', 'Python', 'Flutter', 'Ruby', 'Senior', 'Golang', 'Backend', 'iOS', 'ReactNative', 'Swift', 'FrontEnd', 'GameDeveloper', 'English', 'Security', 'Shopify', 'Full-Time']",200.0,2020-04-30
+711,Senior Software Engineer,MessageBird,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud']",122.5,2021-04-30
+712,Senior Software Engineer,MessageBird,['Worldwide'],"['Senior', 'Golang', 'Engineer', 'Teach', 'Teaching', 'System', 'Cassandra']",120.0,2021-04-30
+713,Software Engineer,Thycotic,['Probably worldwide'],"['Golang', 'Engineer', 'Serverless', 'Cloud']",125.0,2021-04-30
+714,Senior Software Engineer,FingerprintJS,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+715,Backend Developer,Traefik Labs,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+716,Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+717,Backend Software Engineer Amsterdam,Stream,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'API']",123.0,2021-04-30
+718,Backend Developer,gridX GmbH,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+719,Mobile App Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'Mobile', 'ReactNative', 'Wordpress', 'Git', 'Senior', 'Android', 'Backend']",50.0,2021-04-30
+720,Blockchain Core Developer,Spacemesh,['Probably worldwide'],"['Golang', 'Senior', 'Go']",125.0,2021-04-30
+721,Software Engineer cert manager,Jetstack,['Probably worldwide'],"['Golang', 'Engineer', 'Executive']",120.0,2021-04-30
+722,Senior Software Engineer Frontend,Athenian,['Worldwide'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FrontEnd', 'FrontEnd', 'UX', 'UI', 'Git', 'API', 'Lead', 'Analytics', 'SaaS', 'System', 'Engineering', 'Full-Time']",94.0,2021-04-30
+723,Senior Developer,Toptal,['Worldwide'],"['JavaScript', 'React', 'DevOps', 'Salesforce', 'Python', 'Flutter', 'Ruby', 'Senior', 'Golang', 'Backend', 'iOS', 'ReactNative', 'Swift', 'FrontEnd', 'GameDeveloper', 'English', 'Security', 'Shopify', 'Full-Time']",200.0,2020-04-30
+724,Senior Software Engineer,MessageBird,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud']",122.5,2021-04-30
+725,Senior Software Engineer,MessageBird,['Worldwide'],"['Senior', 'Golang', 'Engineer', 'Teach', 'Teaching', 'System', 'Cassandra']",120.0,2021-04-30
+726,Software Engineer,Thycotic,['Probably worldwide'],"['Golang', 'Engineer', 'Serverless', 'Cloud']",125.0,2021-04-30
+727,Senior Software Engineer,FingerprintJS,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+728,Backend Developer,Traefik Labs,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+729,Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+730,Backend Developer API’s,Powerspike,['Probably worldwide'],"['API', 'Golang', 'Backend', 'Esports']",120.0,2021-04-30
+731,Software Engineer - Full-Stack (San Francisco / Remote),Index,['Worldwide'],"['Engineer', 'FullStack', 'UI', 'Lead', 'Senior', 'Reliability', 'Go', 'Full-Stack']",125.0,2020-04-30
+732,Senior PHP Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'PHP', 'Senior', 'Wordpress', 'QualityAssurance', 'Git', 'Mobile', 'Lead']",68.5,2020-04-30
+733,Senior Software Engineer,Level,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+734,Software Engineer,Expel,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2020-04-30
+735,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go']",125.0,2020-04-30
+736,Full Stack Developer,Earning Together,"['North America', 'Latin America']","['Finance', 'Python', 'FullStack', 'Crypto', 'Financial', 'Engineer']",120.0,2020-04-30
+737,Software Engineer,Thycotic,['Probably worldwide'],"['Golang', 'Engineer', 'Serverless', 'Cloud']",125.0,2021-04-30
+738,Senior Software Engineer,FingerprintJS,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2021-04-30
+739,Backend Developer,Traefik Labs,['Probably worldwide'],"['Golang', 'Backend']",122.5,2021-04-30
+740,Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2021-04-30
+741,Backend Developer API’s,Powerspike,['Probably worldwide'],"['API', 'Golang', 'Backend', 'Esports']",120.0,2021-04-30
+742,Software Engineer - Full-Stack (San Francisco / Remote),Index,['Worldwide'],"['Engineer', 'FullStack', 'UI', 'Lead', 'Senior', 'Reliability', 'Go', 'Full-Stack']",125.0,2020-04-30
+743,Senior PHP Developer,BuddyBoss,['Worldwide'],"['JavaScript', 'React', 'PHP', 'Senior', 'Wordpress', 'QualityAssurance', 'Git', 'Mobile', 'Lead']",68.5,2020-04-30
+744,Senior Software Engineer,Level,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+745,Software Engineer,Expel,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2020-04-30
+746,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go']",125.0,2020-04-30
+747,Full Stack Developer,Earning Together,"['North America', 'Latin America']","['Finance', 'Python', 'FullStack', 'Crypto', 'Financial', 'Engineer']",120.0,2020-04-30
+748,Software Engineer Backend,Yellowdig,"['United States', 'Canada']","['JavaScript', 'Clojure', 'Engineer', 'Backend', 'Docker', 'QualityAssurance', 'Edu', 'Reliability']",150.0,2020-04-30
+749,Senior Software Engineer Performance Engineering,DigitalOcean,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2020-04-30
+750,Principal Software Engineer Backend,Docker,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2020-04-30
+751,Software Engineer Back End,Niche,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2020-04-30
+752,Full Stack Developer,GlassDollar,['Based in European timezone between UTC1 and UTC3'],"['JavaScript', 'React', 'Node', 'FullStack', 'Node', 'Engineer', 'Engineering', 'Full-Stack']",120.0,2020-04-30
+753,Senior Ruby on Rails Developer,ThymeBase,['Worldwide'],"['Ruby', 'Senior', 'SaaS', 'JavaScript', 'UI', 'Git', 'PostgreSQL', 'Rails']",123.48917525773196,2020-04-30
+754,Senior Software Engineer Frontend,Athenian,['Remote between UTC3 and UTC3'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FrontEnd', 'FrontEnd', 'UX', 'UI', 'Git', 'API', 'Lead', 'Analytics', 'SaaS', 'System', 'Engineering', 'Full-Time']",92.5,2020-04-30
+755,Senior Web Developer,komoot,['Europe UTC1 to UTC3'],"['JavaScript', 'React', 'Node', 'Senior', 'WebDeveloper', 'English', 'NodeJS', 'Cloud', 'Travel', 'Mobile', 'Go', 'Backend']",123.48917525773196,2020-04-30
+756,Senior Backend Developer,Clarity Movement Co.,['Worldwide'],"['Serverless', 'Python', 'API', 'Senior', 'Backend', 'DevOps', 'Cloud', 'System', 'Engineer', 'Engineering', 'Full-Stack']",175.0,2020-04-30
+757,Clojurescript Developer,district0x,['Worldwide'],"['Crypto', 'Clojure', 'Web3', 'Blockchain', 'Solidity', 'Ethereum', 'English', 'Cryptocurrencies', 'System', 'Go', 'Backend']",175.0,2020-04-30
+758,Senior Full Stack Developer,Aggregage,['Worldwide'],"['JavaScript', 'Java', 'CSS', 'HTML', 'Senior', 'FullStack', 'FrontEnd', 'DevOps', 'Content', 'System', 'Engineer', 'Linux']",64.0,2020-04-30
+759,Salesforce Developer Admin,Firstly,['United States'],"['Salesforce', 'Admin', 'English', 'JavaScript', 'PHP']",90.0,2020-04-30
+760,Senior Software Engineer,vigie.co,['Europe'],"['Senior', 'Golang', 'Engineer', 'FrontEnd', 'SaaS', 'Backend']",80.0,2020-04-30
+761,Software Engineer,Expel,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2020-04-30
+762,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go']",125.0,2020-04-30
+763,Full Stack Developer,Earning Together,"['North America', 'Latin America']","['Finance', 'Python', 'FullStack', 'Crypto', 'Financial', 'Engineer']",120.0,2020-04-30
+764,Software Engineer Backend,Yellowdig,"['United States', 'Canada']","['JavaScript', 'Clojure', 'Engineer', 'Backend', 'Docker', 'QualityAssurance', 'Edu', 'Reliability']",150.0,2020-04-30
+765,Senior Software Engineer Performance Engineering,DigitalOcean,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2020-04-30
+766,Principal Software Engineer Backend,Docker,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2020-04-30
+767,Software Engineer Back End,Niche,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2020-04-30
+768,Full Stack Developer,GlassDollar,['Based in European timezone between UTC1 and UTC3'],"['JavaScript', 'React', 'Node', 'FullStack', 'Node', 'Engineer', 'Engineering', 'Full-Stack']",120.0,2020-04-30
+769,Senior Ruby on Rails Developer,ThymeBase,['Worldwide'],"['Ruby', 'Senior', 'SaaS', 'JavaScript', 'UI', 'Git', 'PostgreSQL', 'Rails']",123.48917525773196,2020-04-30
+770,Senior Software Engineer Frontend,Athenian,['Remote between UTC3 and UTC3'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FrontEnd', 'FrontEnd', 'UX', 'UI', 'Git', 'API', 'Lead', 'Analytics', 'SaaS', 'System', 'Engineering', 'Full-Time']",92.5,2020-04-30
+771,Senior Web Developer,komoot,['Europe UTC1 to UTC3'],"['JavaScript', 'React', 'Node', 'Senior', 'WebDeveloper', 'English', 'NodeJS', 'Cloud', 'Travel', 'Mobile', 'Go', 'Backend']",123.48917525773196,2020-04-30
+772,Senior Backend Developer,Clarity Movement Co.,['Worldwide'],"['Serverless', 'Python', 'API', 'Senior', 'Backend', 'DevOps', 'Cloud', 'System', 'Engineer', 'Engineering', 'Full-Stack']",175.0,2020-04-30
+773,Clojurescript Developer,district0x,['Worldwide'],"['Crypto', 'Clojure', 'Web3', 'Blockchain', 'Solidity', 'Ethereum', 'English', 'Cryptocurrencies', 'System', 'Go', 'Backend']",175.0,2020-04-30
+774,Senior Full Stack Developer,Aggregage,['Worldwide'],"['JavaScript', 'Java', 'CSS', 'HTML', 'Senior', 'FullStack', 'FrontEnd', 'DevOps', 'Content', 'System', 'Engineer', 'Linux']",64.0,2020-04-30
+775,Salesforce Developer Admin,Firstly,['United States'],"['Salesforce', 'Admin', 'English', 'JavaScript', 'PHP']",90.0,2020-04-30
+776,Senior Software Engineer,vigie.co,['Europe'],"['Senior', 'Golang', 'Engineer', 'FrontEnd', 'SaaS', 'Backend']",80.0,2020-04-30
+777,ReactJS Developer,komoot,['Europe'],"['JavaScript', 'React', 'Node', 'QualityAssurance', 'ReactJS', 'English', 'Cloud', 'Node', 'Travel', 'Go', 'Backend']",123.48917525773196,2020-04-30
+778,Backend Developer Data Scientist,komoot,['Europe'],"['Java', 'Python', 'Scala', 'DataScience', 'Backend', 'Cloud', 'Math', 'Mobile', 'Content', 'Senior']",123.48917525773196,2020-04-30
+779,Senior Backend Developer,komoot,['Europe'],"['Java', 'Scala', 'Senior', 'Backend', 'Cloud', 'Microsoft', 'System', 'Engineer']",123.48917525773196,2020-04-30
+780,Senior Front End Developer,PolySwarm,['Worldwide'],"['JavaScript', 'React', 'CSS', 'HTML', 'Python', 'Node', 'Senior', 'FrontEnd', 'Docker', 'Security', 'InfoSec', 'Mobile', 'Lead', 'Marketing', 'Full-Stack']",175.0,2020-04-30
+781,Senior Software Engineer,JetBridge,['North America'],"['Java', 'Python', 'Senior', 'Engineer', 'Backend', 'Health']",98.0,2020-04-30
+782,Software Engineer,Learning Tapestry,"['North America', 'Latin America', 'Europe']","['JavaScript', 'React', 'Node', 'Engineer', 'React', 'Git', 'Node', 'Senior', 'Engineering']",117.5,2020-04-30
+783,Senior Software Engineer,Fiveable - Social Learning for High School Students,['United States'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FullStack', 'Teacher', 'Teaching', 'Students', 'Edu', 'Git', 'Content', 'Go', 'Health', 'Educational', 'Full-Stack']",140.0,2020-04-30
+784,Software Development Lead,Funnelytics,['North America'],"['JavaScript', 'Node', 'Backend', 'Redis', 'Executive', 'FrontEnd', 'Lead', 'Marketing', 'Analytics', 'Engineering']",123.48917525773196,2020-04-30
+785,Software Engineer,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Cloud', 'Engineering']",120.0,2020-04-30
+786,Backend Software Engineer,QONTO,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'Banking', 'Bank', 'Engineering']",120.0,2020-04-30
+787,Senior Go stack developer,Koi Consulting,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+788,Senior Vue JS Frontend Developer,"Love, Bonito",['Asia'],"['JavaScript', 'React', 'Java', 'Angular', 'Senior', 'Linux', 'FrontEnd', 'FrontEnd', 'DevOps', 'JavaScript', 'Content', 'E-Commerce']",123.48917525773196,2020-04-30
+789,Junior Full Stack Developer (Remote),ElevenYellow Pte,['Worldwide'],"['JavaScript', 'Meteor', 'Junior', 'FullStack']",120.0,2020-04-30
+790,Back End WordPress Developer,Alchemy + Aim,['Worldwide'],"['JavaScript', 'PHP', 'Backend', 'Wordpress', 'Video']",123.48917525773196,2020-04-30
+791,Full Stack Developer,Weslink GmbH,['UTC1 German Timezone'],"['JavaScript', 'PHP', 'HTML', 'Git', 'Linux', 'FullStack', 'Senior', 'Full-Stack']",47.5,2020-04-30
+792,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+793,Full Stack Developer,Belighted,['Europe'],"['JavaScript', 'React', 'Ruby', 'FullStack', 'Jira', 'English', 'UX', 'UI']",110.0,2020-04-30
+794,Software Engineer,Learning Tapestry,"['North America', 'Latin America', 'Europe']","['JavaScript', 'React', 'Node', 'Engineer', 'React', 'Git', 'Node', 'Senior', 'Engineering']",117.5,2020-04-30
+795,Senior Software Engineer,Fiveable - Social Learning for High School Students,['United States'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FullStack', 'Teacher', 'Teaching', 'Students', 'Edu', 'Git', 'Content', 'Go', 'Health', 'Educational', 'Full-Stack']",140.0,2020-04-30
+796,Software Development Lead,Funnelytics,['North America'],"['JavaScript', 'Node', 'Backend', 'Redis', 'Executive', 'FrontEnd', 'Lead', 'Marketing', 'Analytics', 'Engineering']",123.48917525773196,2020-04-30
+797,Software Engineer,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Cloud', 'Engineering']",120.0,2020-04-30
+798,Backend Software Engineer,QONTO,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'Banking', 'Bank', 'Engineering']",120.0,2020-04-30
+799,Senior Go stack developer,Koi Consulting,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+800,Senior Vue JS Frontend Developer,"Love, Bonito",['Asia'],"['JavaScript', 'React', 'Java', 'Angular', 'Senior', 'Linux', 'FrontEnd', 'FrontEnd', 'DevOps', 'JavaScript', 'Content', 'E-Commerce']",123.48917525773196,2020-04-30
+801,Junior Full Stack Developer (Remote),ElevenYellow Pte,['Worldwide'],"['JavaScript', 'Meteor', 'Junior', 'FullStack']",120.0,2020-04-30
+802,Back End WordPress Developer,Alchemy + Aim,['Worldwide'],"['JavaScript', 'PHP', 'Backend', 'Wordpress', 'Video']",123.48917525773196,2020-04-30
+803,Full Stack Developer,Weslink GmbH,['UTC1 German Timezone'],"['JavaScript', 'PHP', 'HTML', 'Git', 'Linux', 'FullStack', 'Senior', 'Full-Stack']",47.5,2020-04-30
+804,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+805,Full Stack Developer,Belighted,['Europe'],"['JavaScript', 'React', 'Ruby', 'FullStack', 'Jira', 'English', 'UX', 'UI']",110.0,2020-04-30
+806,Senior Software Engineer,Muck Rack,"['United States', 'Canada', 'Poland', 'Europe', 'Bulgaria']","['Elasticsearch', 'Python', 'Senior', 'Engineer', 'FrontEnd', 'MySQL', 'Lead', 'Content', 'Engineering']",123.48917525773196,2020-04-30
+807,Unity Developer,MarcoPolo Learning,['Worldwide'],"['Edu', 'Mobile', 'GameDeveloper', 'English', 'Content', 'Educational']",123.48917525773196,2020-04-30
+808,React Native Developer,Mozn,['Worldwide'],"['JavaScript', 'React', 'Node', 'Android', 'iOS', 'ReactNative', 'Mobile']",123.48917525773196,2020-04-30
+809,Software Engineer,Luxor,['Probably worldwide'],"['Golang', 'Engineer', 'Cloud', 'Engineering']",120.0,2020-04-30
+810,Senior Backend Developer,KOHO,['Probably worldwide'],"['Senior', 'Golang', 'Backend']",125.0,2020-04-30
+811,Senior Java Developer,Bonfire.com,['Worldwide'],"['Java', 'Senior', 'Ecommerce', 'English', 'JavaScript', 'Angular', 'API', 'Content']",120.0,2020-04-30
+812,Go Timescale GraphQL developer blockchain open source,Delphi Digital,['Probably worldwide'],"['Golang', 'GraphQL', 'Go']",122.5,2020-04-30
+813,Senior Software Engineer,neuronbits,['Worldwide'],"['MachineLearning', 'ArtificialIntelligence', 'AI', 'DeepLearning', 'NeuralNetworks', 'Senior', 'Engineer', 'FullStack', 'FrontEnd', 'DevOps', 'JavaScript', 'UX', 'UI', 'Python', 'Lead', 'Backend']",130.5,2020-04-30
+814,Senior NLP Software Engineer,neuronbits,['Worldwide'],"['MachineLearning', 'ArtificialIntelligence', 'AI', 'DeepLearning', 'NeuralNetworks', 'Senior', 'Engineer', 'CPlusPlus', 'Analytics', 'Engineering']",125.0,2020-04-30
+815,Senior Software Engineer,FingerprintJS,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+816,Senior Software Engineer 100,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2020-04-30
+817,Fullstack Developer,Showcase Insights,['Probably worldwide'],"['Golang', 'FullStack', 'Fullstack']",122.5,2020-04-30
+818,MeteorJS developer for small audio recording feature (United States),essaypop,['United States'],"['JavaScript', 'Meteor', 'Mongo']",125.0,2020-04-30
+819,Freelance Backend Developer – Remote,Toptal,['Worldwide'],"['JavaScript', 'PHP', 'Python', 'Node', 'Ruby', 'Backend', 'English', 'Security', 'Node']",120.0,2020-04-30
+820,Software Engineer Backend,GRAX,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'SaaS']",123.0,2020-04-30
+821,Senior Go Backend Developer,Refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2020-04-30
+822,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+823,Senior Java Developer,Bonfire.com,['Worldwide'],"['Java', 'Senior', 'Ecommerce', 'English', 'JavaScript', 'Angular', 'API', 'Content']",120.0,2020-04-30
+824,Go Timescale GraphQL developer blockchain open source,Delphi Digital,['Probably worldwide'],"['Golang', 'GraphQL', 'Go']",122.5,2020-04-30
+825,Senior Software Engineer,neuronbits,['Worldwide'],"['MachineLearning', 'ArtificialIntelligence', 'AI', 'DeepLearning', 'NeuralNetworks', 'Senior', 'Engineer', 'FullStack', 'FrontEnd', 'DevOps', 'JavaScript', 'UX', 'UI', 'Python', 'Lead', 'Backend']",130.5,2020-04-30
+826,Senior NLP Software Engineer,neuronbits,['Worldwide'],"['MachineLearning', 'ArtificialIntelligence', 'AI', 'DeepLearning', 'NeuralNetworks', 'Senior', 'Engineer', 'CPlusPlus', 'Analytics', 'Engineering']",125.0,2020-04-30
+827,Senior Software Engineer,FingerprintJS,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+828,Senior Software Engineer 100,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Engineering']",125.0,2020-04-30
+829,Fullstack Developer,Showcase Insights,['Probably worldwide'],"['Golang', 'FullStack', 'Fullstack']",122.5,2020-04-30
+830,MeteorJS developer for small audio recording feature (United States),essaypop,['United States'],"['JavaScript', 'Meteor', 'Mongo']",125.0,2020-04-30
+831,Freelance Backend Developer – Remote,Toptal,['Worldwide'],"['JavaScript', 'PHP', 'Python', 'Node', 'Ruby', 'Backend', 'English', 'Security', 'Node']",120.0,2020-04-30
+832,Software Engineer Backend,GRAX,['Probably worldwide'],"['Golang', 'Engineer', 'Backend', 'SaaS']",123.0,2020-04-30
+833,Senior Go Backend Developer,Refurbed,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Go']",125.0,2020-04-30
+834,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+835,Senior Ruby on Rails Developer,Checkout X,['Europe'],"['JavaScript', 'Ruby', 'Senior', 'FrontEnd', 'English', 'Rails', 'Backend', 'E-Commerce', 'Fullstack']",125.0,2020-04-30
+836,Senior iOS Developer,WAW MUZIK,['Remote position Full time WesternEastern Europe European Time Zone UTC1 to 3 or Africa UTC to UTC2'],"['C', 'CPlusPlus', 'Mobile', 'Senior', 'ObjectiveC', 'iOS', 'FrontEnd', 'Music', 'Leader', 'Lead', 'Engineering']",132.5,2020-04-30
+837,Part Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'FrontEnd', 'Senior', 'Go', 'Full-Time', 'Part-Time']",125.0,2020-04-30
+838,Freelance Azure Developer – Remote,Toptal,['Worldwide'],"['Cloud', 'English', 'Security']",122.5,2020-04-30
+839,.NET Developer,Praxent,['Latin America'],"['Finance', 'C', 'CPlusPlus', 'Senior']",127.5,2020-04-30
+840,Lead Software Engineer,Greetly,['United States'],"['JavaScript', 'Node', 'Engineer', 'Executive', 'Security', 'API', 'Lead', 'Junior', 'System']",125.0,2020-04-30
+841,Senior MERN stack Developer,AKTEK,['Europe'],"['JavaScript', 'React', 'Mern', 'Node', 'Senior', 'SaaS']",120.0,2020-04-30
+842,Senior Go stack developer,Koi Consulting,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+843,Software Engineer Cloud Security,CrowdStrike,['Probably worldwide'],"['InfoSec', 'Cloud', 'Golang', 'Engineer', 'Security']",125.0,2020-04-30
+844,Senior Android Developer,Fabulous,['Worldwide'],"['Senior', 'Android', 'Mobile', 'Health']",125.0,2020-04-30
+845,Senior Software Engineer Backend,Blameless,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend', 'Reliability', 'Engineering']",122.5,2020-04-30
+846,Senior software engineer,Arcivr,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+847,Senior Front End Developer,Sam :],['Europe'],"['JavaScript', 'React', 'Senior', 'FrontEnd', 'Travel']",120.0,2020-04-30
+848,React Native Developer,Mozn,['Worldwide'],"['JavaScript', 'React', 'Java', 'C', 'CPlusPlus', 'Node', 'ObjectiveC', 'ReactNative', 'Swift']",120.0,2020-04-30
+849,Frontend Developer (Shopify) (UI/UX),VAIUS GROUP,['Worldwide'],"['Ecommerce', 'Shopify', 'Design', 'FrontEnd', 'FrontEnd', 'Fulltime']",120.0,2020-04-30
+850,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+851,Freelance Swift Developer,Toptal,['Worldwide'],"['iOS', 'Swift', 'English', 'Security']",125.0,2020-04-30
+852,Senior Full Stack developer (Remote),Remo,['Worldwide'],"['JavaScript', 'React', 'Senior', 'FullStack', 'Firebase', 'UI', 'HTML', 'Mobile']",120.0,2020-04-30
+853,.NET Developer,Praxent,['Latin America'],"['Finance', 'C', 'CPlusPlus', 'Senior']",127.5,2020-04-30
+854,Lead Software Engineer,Greetly,['United States'],"['JavaScript', 'Node', 'Engineer', 'Executive', 'Security', 'API', 'Lead', 'Junior', 'System']",125.0,2020-04-30
+855,Senior MERN stack Developer,AKTEK,['Europe'],"['JavaScript', 'React', 'Mern', 'Node', 'Senior', 'SaaS']",120.0,2020-04-30
+856,Senior Go stack developer,Koi Consulting,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+857,Software Engineer Cloud Security,CrowdStrike,['Probably worldwide'],"['InfoSec', 'Cloud', 'Golang', 'Engineer', 'Security']",125.0,2020-04-30
+858,Senior Android Developer,Fabulous,['Worldwide'],"['Senior', 'Android', 'Mobile', 'Health']",125.0,2020-04-30
+859,Senior Software Engineer Backend,Blameless,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend', 'Reliability', 'Engineering']",122.5,2020-04-30
+860,Senior software engineer,Arcivr,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+861,Senior Front End Developer,Sam :],['Europe'],"['JavaScript', 'React', 'Senior', 'FrontEnd', 'Travel']",120.0,2020-04-30
+862,React Native Developer,Mozn,['Worldwide'],"['JavaScript', 'React', 'Java', 'C', 'CPlusPlus', 'Node', 'ObjectiveC', 'ReactNative', 'Swift']",120.0,2020-04-30
+863,Frontend Developer (Shopify) (UI/UX),VAIUS GROUP,['Worldwide'],"['Ecommerce', 'Shopify', 'Design', 'FrontEnd', 'FrontEnd', 'Fulltime']",120.0,2020-04-30
+864,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+865,Freelance Swift Developer,Toptal,['Worldwide'],"['iOS', 'Swift', 'English', 'Security']",125.0,2020-04-30
+866,Senior Full Stack developer (Remote),Remo,['Worldwide'],"['JavaScript', 'React', 'Senior', 'FullStack', 'Firebase', 'UI', 'HTML', 'Mobile']",120.0,2020-04-30
+867,Sr. React Developer,Koinly,['Worldwide'],"['JavaScript', 'React', 'ReactNative', 'FrontEnd', 'Crypto', 'Senior']",125.0,2020-04-30
+868,Go Architect Developer,Ubuntu Software,['Probably worldwide'],"['Golang', 'Architecture', 'Go', 'Health']",122.5,2020-04-30
+869,WordPress Developer,MeridianThemes,['Worldwide'],"['HTML', 'Wordpress']",115.0,2020-04-30
+870,Front-end developer,Krit,['United States'],"['FrontEnd', 'React']",125.0,2020-04-30
+871,React JS Developer,komoot,['Europe'],"['JavaScript', 'React', 'Node', 'ReactJS', 'JavaScript', 'Travel', 'Go']",120.0,2020-04-30
+872,Golang Developer,Vop,['Worldwide'],"['Golang', 'Video']",122.5,2020-04-30
+873,Lead Full-Stack Software Engineer,Prominent Edge,['United States'],"['JavaScript', 'React', 'Python', 'Engineer', 'Backend', 'FullStack', 'FrontEnd', 'Executive', 'Lead', 'Engineering', 'Full-Stack']",123.0,2020-04-30
+874,Senior Software Engineer,Vistas recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud', 'Go', 'Recruiter']",120.0,2020-04-30
+875,Clojurescript Developer,district0x,['Worldwide'],"['JavaScript', 'React', 'Crypto', 'Clojure', 'Web3', 'Blockchain', 'Solidity', 'Ethereum', 'System', 'Go', 'Backend']",125.0,2020-04-30
+876,Senior Software Engineer React/TS,Just,['Europe'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FullStack', 'GraphQL', 'FrontEnd', 'Financial', 'Finance', 'Fintech', 'Bank', 'Java', 'Cloud', 'CSS', 'UI', 'Lead', 'Analytics', 'SaaS', 'Backend']",130.0,2020-04-30
+877,Part Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'FrontEnd', 'Senior', 'Go', 'Full-Time', 'Part-Time']",125.0,2020-04-30
+878,Senior Go Blockchain Developer,Spacemesh,['Probably worldwide'],"['Senior', 'Golang', 'Cryptocurrency', 'Go']",125.0,2020-04-30
+879,Senior Full Stack Developer,rewardStyle,['Probably worldwide'],"['Senior', 'Golang', 'FullStack', 'Engineer']",122.5,2020-04-30
+880,Senior Lead Kubernetes Golang Developer,CSHARK,['Probably worldwide'],"['Senior', 'Golang', 'Executive', 'Lead']",125.0,2020-04-30
+881,Mid Full Stack Developer,Network Gaming,['Probably worldwide'],"['Golang', 'FullStack', 'GameDeveloper']",120.0,2020-04-30
+882,Fullstack Ruby on Rails Developer,Checkout X,['Europe'],"['Ruby', 'FullStack', 'FrontEnd', 'Rails', 'Backend', 'E-Commerce', 'Fullstack']",130.0,2020-04-30
+883,Full Stack Python/JS Developer,Fjelltopp,['Worldwide'],"['JavaScript', 'Python', 'FullStack', 'FrontEnd', 'Travel', 'Senior', 'System', 'Health']",125.0,2020-04-30
+884,Software Engineer,SmartSuite,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'Ecommerce', 'Shopify', 'GraphQL', 'UX']",120.0,2020-04-30
+885,Senior Rails Developer,YourGrocer.com.au,['Worldwide'],"['Ruby', 'Senior', 'Rails']",125.0,2020-04-30
+886,Senior Software Engineer,Vistas recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud', 'Go', 'Recruiter']",120.0,2020-04-30
+887,Clojurescript Developer,district0x,['Worldwide'],"['JavaScript', 'React', 'Crypto', 'Clojure', 'Web3', 'Blockchain', 'Solidity', 'Ethereum', 'System', 'Go', 'Backend']",125.0,2020-04-30
+888,Senior Software Engineer React/TS,Just,['Europe'],"['JavaScript', 'React', 'Senior', 'Engineer', 'FullStack', 'GraphQL', 'FrontEnd', 'Financial', 'Finance', 'Fintech', 'Bank', 'Java', 'Cloud', 'CSS', 'UI', 'Lead', 'Analytics', 'SaaS', 'Backend']",130.0,2020-04-30
+889,Part Go Developer Engineer,CYZA,['Probably worldwide'],"['Golang', 'Engineer', 'FrontEnd', 'Senior', 'Go', 'Full-Time', 'Part-Time']",125.0,2020-04-30
+890,Senior Go Blockchain Developer,Spacemesh,['Probably worldwide'],"['Senior', 'Golang', 'Cryptocurrency', 'Go']",125.0,2020-04-30
+891,Senior Full Stack Developer,rewardStyle,['Probably worldwide'],"['Senior', 'Golang', 'FullStack', 'Engineer']",122.5,2020-04-30
+892,Senior Lead Kubernetes Golang Developer,CSHARK,['Probably worldwide'],"['Senior', 'Golang', 'Executive', 'Lead']",125.0,2020-04-30
+893,Mid Full Stack Developer,Network Gaming,['Probably worldwide'],"['Golang', 'FullStack', 'GameDeveloper']",120.0,2020-04-30
+894,Fullstack Ruby on Rails Developer,Checkout X,['Europe'],"['Ruby', 'FullStack', 'FrontEnd', 'Rails', 'Backend', 'E-Commerce', 'Fullstack']",130.0,2020-04-30
+895,Full Stack Python/JS Developer,Fjelltopp,['Worldwide'],"['JavaScript', 'Python', 'FullStack', 'FrontEnd', 'Travel', 'Senior', 'System', 'Health']",125.0,2020-04-30
+896,Software Engineer,SmartSuite,['Worldwide'],"['JavaScript', 'React', 'Engineer', 'Ecommerce', 'Shopify', 'GraphQL', 'UX']",120.0,2020-04-30
+897,Senior Rails Developer,YourGrocer.com.au,['Worldwide'],"['Ruby', 'Senior', 'Rails']",125.0,2020-04-30
+898,Sr. Software Engineer (Backend),Babylist,['United States'],"['Ruby', 'Engineer', 'Backend', 'Rails', 'Engineering', 'Ecommerce']",125.5,2020-04-30
+899,Vue or Nuxt Developer,Front Porch Solutions,"['United States', 'North America', 'Latin America']","['JavaScript', 'API', 'Mobile']",120.0,2020-04-30
+900,FrontEnd Developer (React/Redux),IDEX Innovation,['Worldwide'],"['JavaScript', 'React', 'FrontEnd', 'FrontEnd', 'Backend']",120.0,2020-04-30
+901,Mid-Level Software Engineer,InvestorFuse,['Worldwide'],"['JavaScript', 'Firebase', 'Angular', 'Node', 'Engineer', 'FullStack', 'Investment', 'Engineering', 'Backend']",125.0,2020-04-30
+902,Senior PHP Developer,Rebilly,['Worldwide'],"['PHP', 'Senior', 'Jira', 'System']",125.0,2020-04-30
+903,Software Engineer,Teqneeks,['Worldwide'],"['JavaScript', 'Meteor', 'Engineer', 'Security', 'UI']",122.5,2020-04-30
+904,Full-Stack Developer (Ruby On-Rails),Reva Media ApS,['Worldwide'],"['Ruby', 'FullStack', 'FrontEnd', 'Rails', 'Backend', 'Full-Stack', 'Full-Time']",130.0,2020-04-30
+905,"Software Engineer, Android",Doximity,['United States'],"['Mobile', 'Android', 'Medical', 'Engineer', 'Teach', 'JavaScript', 'Edu', 'Excel', 'System', 'Engineering']",130.0,2020-04-30
+906,"Software Engineer, SRE",Doximity,['United States'],"['Git', 'Ruby', 'Admin', 'Golang', 'Medical', 'Engineer', 'SysAdmin', 'DevOps', 'JavaScript', 'Security', 'Edu', 'Rails', 'Travel', 'System', 'Go', 'Engineering']",130.0,2020-04-30
+907,Senior iOS Developer,WAW MUZIK,['Europe'],"['C', 'CPlusPlus', 'Mobile', 'Senior', 'ObjectiveC', 'iOS', 'Swift', 'Scrum', 'Music', 'Leader', 'Lead', 'Engineering']",135.0,2020-04-30
+908,Software QA Expert,Deep Consulting Solutions,['Worldwide'],"['QualityAssurance', 'Testing', 'QualityAssurance', 'Amazon', 'Salesforce', 'System', 'Go']",122.5,2020-04-30
+909,Senior Frontend Developer,CartHook,['Europe'],"['JavaScript', 'Angular', 'Senior', 'FrontEnd', 'FrontEnd', 'Ecommerce']",120.0,2020-04-30
+910,Senior Android Developer,MYPINPAD Ltd,['United Kingdom'],"['Senior', 'Android', 'Security', 'Medical']",125.0,2020-04-30
+911,React Developer,Nicer Studio,['United States'],"['JavaScript', 'React', 'Firebase', 'ReactNative', 'GraphQL', 'Lead']",120.0,2020-04-30
+912,Remote Senior FullStack Developer,WAW MUZIK,['Europe'],"['JavaScript', 'API', 'Admin', 'Senior', 'SysAdmin', 'Backend', 'FullStack', 'Design', 'FrontEnd', 'Music', 'Leader', 'Engineer', 'Engineering', 'Fullstack', 'Full-Stack']",120.0,2020-04-30
+913,Senior Software Engineer,Vamstar,['Worldwide'],"['JavaScript', 'React', 'Java', 'Serverless', 'Node', 'Senior', 'Engineer', 'Backend']",120.0,2020-04-30
+914,Senior Software Engineer,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+915,Backend Developer,UBIO (Automation Cloud),"['United Kingdom', 'Europe']","['JavaScript', 'Backend', 'Redis', 'Cloud', 'SaaS', 'Engineer', 'Engineering']",125.0,2020-04-30
+916,Software Engineer Cloud,HashiCorp,['Probably worldwide'],"['Cloud', 'Golang', 'Engineer', 'Security']",120.0,2020-04-30
+917,Freelance Java Developer – Full-time,Toptal,['Worldwide'],"['Java', 'FullTime', 'English', 'Full-Time']",125.0,2020-04-30
+918,"Software Engineer, Security",Doximity,['North America'],"['DevOps', 'InfoSec', 'Python', 'Ruby', 'Golang', 'Medical', 'Engineer', 'JavaScript', 'Security', 'Edu', 'Travel', 'System', 'Engineering']",130.0,2020-04-30
+919,Senior Golang Developer,Fast,['Probably worldwide'],"['Senior', 'Golang', 'Go', 'Engineering', 'Backend']",125.0,2020-04-30
+920,Senior Software Engineer,Webflow,"['United States', 'Worldwide']","['Senior', 'Engineer', 'Amazon', 'Node', 'Engineering', 'Linux']",127.5,2020-04-30
+921,Senior Software Engineer,Webflow,['Worldwide'],"['Senior', 'Engineer']",125.0,2020-04-30
+922,Senior Software Engineer,Vamstar,['Worldwide'],"['JavaScript', 'React', 'Java', 'Serverless', 'Node', 'Senior', 'Engineer', 'Backend']",120.0,2020-04-30
+923,Senior Software Engineer,Form3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+924,Backend Developer,UBIO (Automation Cloud),"['United Kingdom', 'Europe']","['JavaScript', 'Backend', 'Redis', 'Cloud', 'SaaS', 'Engineer', 'Engineering']",125.0,2020-04-30
+925,Software Engineer Cloud,HashiCorp,['Probably worldwide'],"['Cloud', 'Golang', 'Engineer', 'Security']",120.0,2020-04-30
+926,Freelance Java Developer – Full-time,Toptal,['Worldwide'],"['Java', 'FullTime', 'English', 'Full-Time']",125.0,2020-04-30
+927,"Software Engineer, Security",Doximity,['North America'],"['DevOps', 'InfoSec', 'Python', 'Ruby', 'Golang', 'Medical', 'Engineer', 'JavaScript', 'Security', 'Edu', 'Travel', 'System', 'Engineering']",130.0,2020-04-30
+928,Senior Golang Developer,Fast,['Probably worldwide'],"['Senior', 'Golang', 'Go', 'Engineering', 'Backend']",125.0,2020-04-30
+929,Senior Software Engineer,Webflow,"['United States', 'Worldwide']","['Senior', 'Engineer', 'Amazon', 'Node', 'Engineering', 'Linux']",127.5,2020-04-30
+930,Senior Software Engineer,Webflow,['Worldwide'],"['Senior', 'Engineer']",125.0,2020-04-30
+931,Senior Software Engineer,SpiderOak,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Security', 'Engineering']",125.0,2020-04-30
+932,Senior Software Engineer,HashiCorp,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Security']",125.0,2020-04-30
+933,Senior Software Engineer,Screenleap,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+934,Senior Software Engineer,Vistas recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud', 'Go', 'Recruiter']",120.0,2020-04-30
+935,Senior Software Engineer,Avy,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Banking', 'Engineering']",125.0,2020-04-30
+936,Full Stack Developer,ElevenYellow,['Probably worldwide'],"['JavaScript', 'Meteor', 'FullStack']",122.5,2020-04-30
+937,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+938,Senior software engineer,Back,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+939,Meteor developer for trouble shooting excessive CPU usage on our application,Medic On Demand,['Worldwide'],"['JavaScript', 'Meteor']",125.0,2020-04-30
+940,Blockchain Developer WFH,Spacemesh,['Probably worldwide'],['Golang'],125.0,2020-04-30
+941,Senior Software Engineer 100,FORM3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+942,Backend Go Developer for Voice Chat App,Dialup,['Probably worldwide'],"['Golang', 'Backend', 'Speech', 'Mobile', 'Go']",120.0,2020-04-30
+943,Senior Software Engineer,HashiCorp,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Security']",125.0,2020-04-30
+944,Senior Software Engineer,Screenleap,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+945,Senior Software Engineer,Vistas recruitment,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Cloud', 'Go', 'Recruiter']",120.0,2020-04-30
+946,Senior Software Engineer,Avy,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Banking', 'Engineering']",125.0,2020-04-30
+947,Full Stack Developer,ElevenYellow,['Probably worldwide'],"['JavaScript', 'Meteor', 'FullStack']",122.5,2020-04-30
+948,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+949,Senior software engineer,Back,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+950,Meteor developer for trouble shooting excessive CPU usage on our application,Medic On Demand,['Worldwide'],"['JavaScript', 'Meteor']",125.0,2020-04-30
+951,Blockchain Developer WFH,Spacemesh,['Probably worldwide'],['Golang'],125.0,2020-04-30
+952,Senior Software Engineer 100,FORM3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+953,Backend Go Developer for Voice Chat App,Dialup,['Probably worldwide'],"['Golang', 'Backend', 'Speech', 'Mobile', 'Go']",120.0,2020-04-30
+954,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+955,Software engineer,rove.me,['Probably worldwide'],"['JavaScript', 'Meteor', 'Engineer']",122.5,2020-04-30
+956,Golang Flutter Developer,GetCourageNow,['Probably worldwide'],"['Flutter', 'Golang']",125.0,2020-04-30
+957,Senior Full Stack Developer,Panda Strike,['Probably worldwide'],"['Senior', 'Golang', 'FullStack']",125.0,2020-04-30
+958,Senior Full Stack Developer,Panda Strike,['Probably worldwide'],"['Senior', 'Golang', 'FullStack']",125.0,2020-04-30
+959,Lead Golang Developer,Network Gaming,['Probably worldwide'],"['Golang', 'GameDeveloper', 'Executive', 'Lead', 'Go']",120.0,2020-04-30
+960,Senior backend go developer,CEL,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Lead', 'Go', 'Engineer']",122.5,2020-04-30
+961,Principal Software Engineer,Airbrake,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2020-04-30
+962,Blockchain Developer WFH,Spacemesh,['Probably worldwide'],['Golang'],125.0,2020-04-30
+963,Senior Software Engineer 100,FORM3,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+964,Backend Go Developer for Voice Chat App,Dialup,['Probably worldwide'],"['Golang', 'Backend', 'Speech', 'Mobile', 'Go']",120.0,2020-04-30
+965,Senior Software Engineer,Pomerium,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+966,Software engineer,rove.me,['Probably worldwide'],"['JavaScript', 'Meteor', 'Engineer']",122.5,2020-04-30
+967,Golang Flutter Developer,GetCourageNow,['Probably worldwide'],"['Flutter', 'Golang']",125.0,2020-04-30
+968,Senior Full Stack Developer,Panda Strike,['Probably worldwide'],"['Senior', 'Golang', 'FullStack']",125.0,2020-04-30
+969,Senior Full Stack Developer,Panda Strike,['Probably worldwide'],"['Senior', 'Golang', 'FullStack']",125.0,2020-04-30
+970,Lead Golang Developer,Network Gaming,['Probably worldwide'],"['Golang', 'GameDeveloper', 'Executive', 'Lead', 'Go']",120.0,2020-04-30
+971,Senior backend go developer,CEL,['Probably worldwide'],"['Senior', 'Golang', 'Backend', 'Lead', 'Go', 'Engineer']",122.5,2020-04-30
+972,Principal Software Engineer,Airbrake,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2020-04-30
+973,Contract Junior Full Stack Developer,Intevity,['Probably worldwide'],"['Junior', 'Golang', 'FullStack', 'FrontEnd', 'Leader', 'Backend', 'Full-Stack']",123.0,2020-04-30
+974,Software Engineer,Carbon Relay,['Probably worldwide'],"['Golang', 'Engineer', 'DevOps']",120.0,2020-04-30
+975,Meteor Developer,WebBlind,['United States'],"['JavaScript', 'Meteor']",125.0,2020-04-30
+976,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'API', 'Go']",125.0,2020-04-30
+977,Software Engineer,Northflank,['United Kingdom'],"['JavaScript', 'Meteor', 'Engineer']",122.5,2020-04-30
+978,Backend Software Engineer,The New York Times,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2020-04-30
+979,Senior Software Engineer Back End,Sun Life,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2020-04-30
+980,Senior Go Developer,New Context Services,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+981,Software Engineer Platform Engineering,Secureworks,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Engineering']",122.5,2020-04-30
+982,Senior Software Engineer,Enova,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+983,Senior Software Developer,FORM3,['Probably worldwide'],"['Senior', 'Golang']",125.0,2020-04-30
+984,Senior Software Engineer Blockchain Protocol,Tendermint,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+985,Golang Developer,Mercury Holidays,['Probably worldwide'],"['Golang', 'Travel']",122.5,2019-05-01
+986,Software Developer,Merj,['Probably worldwide'],['Golang'],125.0,2019-05-01
+987,Lead Cloud Developer US CITIZEN ONLY,SAIC,['Probably worldwide'],"['Cloud', 'Golang', 'Executive', 'Lead']",120.0,2019-05-01
+988,Backend developer for our cloud based Serverless web app,Numero Pte,['Where ever you want to work'],"['JavaScript', 'Serverless', 'Cloud', 'Meteor', 'Backend', 'WebDeveloper']",120.0,2019-05-01
+989,Principal Software Engineer,Airbrake,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2020-04-30
+990,Contract Junior Full Stack Developer,Intevity,['Probably worldwide'],"['Junior', 'Golang', 'FullStack', 'FrontEnd', 'Leader', 'Backend', 'Full-Stack']",123.0,2020-04-30
+991,Software Engineer,Carbon Relay,['Probably worldwide'],"['Golang', 'Engineer', 'DevOps']",120.0,2020-04-30
+992,Meteor Developer,WebBlind,['United States'],"['JavaScript', 'Meteor']",125.0,2020-04-30
+993,Senior Go Developer,X Team,['Probably worldwide'],"['Senior', 'Golang', 'API', 'Go']",125.0,2020-04-30
+994,Software Engineer,Northflank,['United Kingdom'],"['JavaScript', 'Meteor', 'Engineer']",122.5,2020-04-30
+995,Backend Software Engineer,The New York Times,['Probably worldwide'],"['Golang', 'Engineer', 'Backend']",120.0,2020-04-30
+996,Senior Software Engineer Back End,Sun Life,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Backend']",122.5,2020-04-30
+997,Senior Go Developer,New Context Services,['Probably worldwide'],"['Senior', 'Golang', 'Go']",125.0,2020-04-30
+998,Software Engineer Platform Engineering,Secureworks,['Probably worldwide'],"['Golang', 'Engineer', 'Leader', 'Engineering']",122.5,2020-04-30
+999,Senior Software Engineer,Enova,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+1000,Senior Software Developer,FORM3,['Probably worldwide'],"['Senior', 'Golang']",125.0,2020-04-30
+1001,Senior Software Engineer Blockchain Protocol,Tendermint,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2020-04-30
+1002,Golang Developer,Mercury Holidays,['Probably worldwide'],"['Golang', 'Travel']",122.5,2019-05-01
+1003,Software Developer,Merj,['Probably worldwide'],['Golang'],125.0,2019-05-01
+1004,Lead Cloud Developer US CITIZEN ONLY,SAIC,['Probably worldwide'],"['Cloud', 'Golang', 'Executive', 'Lead']",120.0,2019-05-01
+1005,Backend developer for our cloud based Serverless web app,Numero Pte,['Where ever you want to work'],"['JavaScript', 'Serverless', 'Cloud', 'Meteor', 'Backend', 'WebDeveloper']",120.0,2019-05-01
+1006,Golang Developer,NewRem Media Corp,['Probably worldwide'],['Golang'],125.0,2019-05-01
+1007,Fast Meteor developer,Facio,['Worldwide'],"['JavaScript', 'Meteor']",125.0,2019-05-01
+1008,Backend Developer Intern Golang,Mailchain,['Probably worldwide'],"['Golang', 'Backend']",122.5,2019-05-01
+1009,Software Engineer,Axiom,['Probably worldwide'],"['Golang', 'Engineer']",122.5,2019-05-01
+1010,Junior Go developer server side,Compliance Solution Strategies,['Probably worldwide'],"['Junior', 'Golang', 'Git', 'Mongo', 'Go']",120.0,2019-05-01
+1011,Go Developer,X Team,['Probably worldwide'],"['Golang', 'Go']",125.0,2019-05-01
+1012,Senior Golang Developer,Trust Soda,['Probably worldwide'],"['Senior', 'Golang', 'Full-Time']",125.0,2019-05-01
+1013,Senior Software Developer 100,FORM3,['Probably worldwide'],"['Senior', 'Golang', 'API']",125.0,2019-05-01
+1014,Video Software Engineer,CBS Interactive,['Probably worldwide'],"['Video', 'Golang', 'Engineer', 'Content', 'Operations']",120.0,2019-05-01
+1015,Full stack Meteor developer for a small SaaS company,lempire,['Worldwide'],"['JavaScript', 'Meteor', 'SaaS', 'FullStack', 'Go', 'Full-Time']",120.0,2019-05-01
+1016,Senior Software Engineer for US Canada ONLY,Planet,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2019-05-01
+1017,Senior Software Engineer,Planet,['Probably worldwide'],"['Senior', 'Golang', 'Engineer']",125.0,2019-05-01
+1018,Senior Software Engineer,Netdata,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go', 'Engineering']",125.0,2019-05-01
+1019,Go Developer,X Team,['Probably worldwide'],"['Golang', 'Go']",125.0,2019-05-01
+1020,Senior Software Engineer,rewardStyle,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Mobile', 'SaaS']",120.0,2019-05-01
+1021,Opensource Meteor Developer Node.js MariaDB MongoDB,Medical Informatics Engineering,['United States'],"['JavaScript', 'Meteor', 'Node', 'Mongo', 'Node', 'Mongo', 'Medical', 'Engineer']",120.0,2019-05-01
+1022,Backend Developer,Toggl,['Probably worldwide'],"['Golang', 'Backend']",122.5,2019-05-01
+1023,GoLang Developer,SpringboardVR,['Probably worldwide'],['Golang'],125.0,2019-05-01
+1024,Kubernetes Go Software developer,Veganbase,['Probably worldwide'],"['Golang', 'Go']",125.0,2019-05-01
+1025,General Meteor Developer,Remote-how,['Location independent'],"['JavaScript', 'Meteor']",125.0,2019-05-01
+1026,Golang Software Engineer,Percona,['Probably worldwide'],"['Golang', 'Engineer', 'Mongo', 'Go', 'Backend', 'Full-Time']",120.0,2019-05-01
+1027,Senior Software Developer 100,Form3 Financial Cloud,['Probably worldwide'],"['Senior', 'Golang', 'Finance', 'Cloud', 'API']",120.0,2019-05-01
+1028,Junior Full Stack Developer Complex Technical Support,ConvertCalculator,['Worldwide'],"['JavaScript', 'Meteor', 'Junior', 'FullStack', 'CustomerSupport']",120.0,2019-05-01
+1029,Sr Software Architect Engineer Node.js Meteor.js,Peerlyst,"['Worldwide', 'India']","['JavaScript', 'Meteor', 'Node', 'Engineer', 'Architecture', 'Node']",120.0,2019-05-01
+1030,Staff Software Engineer Accounts,InVision,['Probably worldwide'],"['Golang', 'Engineer', 'Engineering']",122.5,2019-05-01
+1031,Open Source Software Engineer Go,Datadog,['Probably worldwide'],"['Golang', 'Engineer', 'Go']",122.5,2019-05-01
+1032,Senior Software Engineer,Netdata,['Probably worldwide'],"['Senior', 'Golang', 'Engineer', 'Go', 'Engineering']",125.0,2019-05-01
