@@ -14,7 +14,6 @@
 
 
 # %% [markdown]
-import streamlit as st
 # Web Scraping (Loay)
 
 # %%
@@ -93,7 +92,7 @@ import re
 import numpy as np
 from bs4 import BeautifulSoup
 
-f = open(r"D:\GitHub\ToolsProject\source.txt",'r',encoding='utf-8')
+f = open(r"W:\Loay\Python Projects\ToolsProject\source.txt",'r',encoding='utf-8')
 page_source = f.read()
 f.close()
 soup = BeautifulSoup(page_source)
@@ -150,7 +149,7 @@ data = {'Role':df_roles, 'Organization':df_organizations, 'Locations':df_locatio
 import pandas as pd
 df = pd.DataFrame(data)
 df.to_csv('Scraped Data.csv')
-df = pd.read_csv("D:\GitHub\ToolsProject\Scraped Data.csv")
+df = pd.read_csv(r"W:\Loay\Python Projects\ToolsProject\Scraped Data.csv")
 #if pressed :
 #    st.dataframe(df) 
 
@@ -453,6 +452,7 @@ plt.show()
 
 # %% [markdown]
 import plotly.express as px
+import streamlit as st
 st.header(" Data after cleaning")
 
 st.dataframe(df)
@@ -538,3 +538,4 @@ st.plotly_chart(bar, use_container_width=True)
 
 
 #streamlit run "The file directory without quotes"
+# %%
