@@ -1,0 +1,9 @@
+# Recommended deployment runtime: Python 3.12
+streamlit
+pandas<3
+numpy
+plotly
+beautifulsoup4
+requests
+matplotlib
+seaborn
