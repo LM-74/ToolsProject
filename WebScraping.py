@@ -149,7 +149,7 @@ data = {'Role':df_roles, 'Organization':df_organizations, 'Locations':df_locatio
 import pandas as pd
 df = pd.DataFrame(data)
 df.to_csv('Scraped Data.csv')
-df = pd.read_csv(r"W:\Loay\Python Projects\ToolsProject\Scraped Data.csv")
+df = pd.read_csv("Scraped Data.csv")
 #if pressed :
 #    st.dataframe(df) 
 
