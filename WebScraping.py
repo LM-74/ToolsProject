@@ -92,7 +92,7 @@ import re
 import numpy as np
 from bs4 import BeautifulSoup
 
-f = open(r"W:\Loay\Python Projects\ToolsProject\source.txt",'r',encoding='utf-8')
+f = open(r"\source.txt",'r',encoding='utf-8')
 page_source = f.read()
 f.close()
 soup = BeautifulSoup(page_source)
